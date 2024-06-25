@@ -1,0 +1,2636 @@
+2024-05-27 20:47:09 - UIDresult or deviceID key not found in POST data.
+2024-05-27 20:48:38 - UIDresult or deviceID key not found in POST data.
+2024-05-27 20:48:50 - UIDresult or deviceID key not found in POST data.
+2024-05-27 20:48:51 - UIDresult or deviceID key not found in POST data.
+2024-05-27 20:48:51 - UIDresult or deviceID key not found in POST data.
+2024-05-27 20:48:54 - UIDresult or deviceID key not found in POST data.
+2024-05-27 20:48:55 - UIDresult or deviceID key not found in POST data.
+2024-05-27 20:48:56 - UIDresult or deviceID key not found in POST data.
+2024-05-27 20:53:08 - Received UIDresult: 1DA6F4E6 from device: Device123
+2024-05-27 20:53:08 - Successfully wrote to UIDContainer.php
+2024-05-27 20:53:23 - UIDresult or deviceID key not found in POST data.
+2024-05-27 20:53:26 - UIDresult or deviceID key not found in POST data.
+2024-05-27 20:53:29 - UIDresult or deviceID key not found in POST data.
+2024-05-27 20:53:30 - Received UIDresult: 1DA6F4E6 from device: Device123
+2024-05-27 20:53:30 - Successfully wrote to UIDContainer.php
+2024-05-27 20:53:33 - UIDresult or deviceID key not found in POST data.
+2024-05-27 20:55:31 - UIDresult or deviceID key not found in POST data.
+2024-05-27 21:13:47 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 21:13:47 - Successfully wrote to UIDContainer.php
+2024-05-27 21:48:12 - UIDresult or deviceID key not found in POST data.
+2024-05-27 21:48:49 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 21:48:49 - Successfully wrote to UIDContainer.php
+2024-05-27 21:55:03 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 21:55:03 - Successfully wrote to UIDContainer.php
+2024-05-27 21:55:35 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 21:55:35 - Successfully wrote to UIDContainer.php
+2024-05-27 21:55:41 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 21:55:41 - Successfully wrote to UIDContainer.php
+2024-05-27 22:21:14 - UIDresult or deviceID key not found in POST data.
+2024-05-27 22:25:16 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 22:25:16 - Successfully wrote to UIDContainer.php
+2024-05-27 22:35:33 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 22:35:33 - Successfully wrote to UIDContainer.php
+2024-05-27 22:36:26 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 22:36:26 - Successfully wrote to UIDContainer.php
+2024-05-27 22:36:31 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 22:36:31 - Successfully wrote to UIDContainer.php
+2024-05-27 22:38:19 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 22:38:19 - Successfully wrote to UIDContainer.php
+2024-05-27 22:38:27 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 22:38:27 - Successfully wrote to UIDContainer.php
+2024-05-27 22:38:30 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 22:38:30 - Successfully wrote to UIDContainer.php
+2024-05-27 22:39:30 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 22:39:30 - Successfully wrote to UIDContainer.php
+2024-05-27 23:26:12 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:26:12 - Successfully wrote to UIDContainer.php
+2024-05-27 23:32:26 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:32:26 - Successfully wrote to UIDContainer.php
+2024-05-27 23:32:32 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:32:32 - Successfully wrote to UIDContainer.php
+2024-05-27 23:33:26 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:33:26 - Successfully wrote to UIDContainer.php
+2024-05-27 23:33:28 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:33:28 - Successfully wrote to UIDContainer.php
+2024-05-27 23:33:35 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:33:35 - Successfully wrote to UIDContainer.php
+2024-05-27 23:33:41 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:33:41 - Successfully wrote to UIDContainer.php
+2024-05-27 23:33:55 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-27 23:33:55 - Successfully wrote to UIDContainer.php
+2024-05-27 23:33:58 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-27 23:33:58 - Successfully wrote to UIDContainer.php
+2024-05-27 23:34:07 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-27 23:34:07 - Successfully wrote to UIDContainer.php
+2024-05-27 23:34:12 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:34:12 - Successfully wrote to UIDContainer.php
+2024-05-27 23:34:13 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:34:13 - Successfully wrote to UIDContainer.php
+2024-05-27 23:34:22 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:34:22 - Successfully wrote to UIDContainer.php
+2024-05-27 23:34:25 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-27 23:34:25 - Successfully wrote to UIDContainer.php
+2024-05-27 23:34:58 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:34:58 - Successfully wrote to UIDContainer.php
+2024-05-27 23:35:03 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-27 23:35:03 - Successfully wrote to UIDContainer.php
+2024-05-27 23:35:22 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-27 23:35:22 - Successfully wrote to UIDContainer.php
+2024-05-27 23:35:26 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:35:26 - Successfully wrote to UIDContainer.php
+2024-05-27 23:35:29 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:35:29 - Successfully wrote to UIDContainer.php
+2024-05-27 23:35:31 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-27 23:35:31 - Successfully wrote to UIDContainer.php
+2024-05-27 23:35:35 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-27 23:35:35 - Successfully wrote to UIDContainer.php
+2024-05-27 23:35:40 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:35:40 - Successfully wrote to UIDContainer.php
+2024-05-27 23:35:42 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:35:42 - Successfully wrote to UIDContainer.php
+2024-05-27 23:35:47 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-27 23:35:47 - Successfully wrote to UIDContainer.php
+2024-05-27 23:35:50 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:35:50 - Successfully wrote to UIDContainer.php
+2024-05-27 23:35:55 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-27 23:35:55 - Successfully wrote to UIDContainer.php
+2024-05-27 23:36:00 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-27 23:36:00 - Successfully wrote to UIDContainer.php
+2024-05-28 01:29:59 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:29:59 - Successfully wrote to UIDContainer.php
+2024-05-28 01:30:09 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:30:09 - Successfully wrote to UIDContainer.php
+2024-05-28 01:30:10 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:30:10 - Successfully wrote to UIDContainer.php
+2024-05-28 01:32:26 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 01:32:26 - Successfully wrote to UIDContainer.php
+2024-05-28 01:32:38 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:32:38 - Successfully wrote to UIDContainer.php
+2024-05-28 01:32:45 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:32:45 - Successfully wrote to UIDContainer.php
+2024-05-28 01:32:46 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:32:46 - Successfully wrote to UIDContainer.php
+2024-05-28 01:34:35 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 01:34:35 - Successfully wrote to UIDContainer.php
+2024-05-28 01:34:37 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 01:34:37 - Successfully wrote to UIDContainer.php
+2024-05-28 01:35:11 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:35:11 - Successfully wrote to UIDContainer.php
+2024-05-28 01:35:24 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 01:35:24 - Successfully wrote to UIDContainer.php
+2024-05-28 01:35:52 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 01:35:52 - Successfully wrote to UIDContainer.php
+2024-05-28 01:35:54 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 01:35:54 - Successfully wrote to UIDContainer.php
+2024-05-28 01:35:57 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:35:57 - Successfully wrote to UIDContainer.php
+2024-05-28 01:35:59 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:35:59 - Successfully wrote to UIDContainer.php
+2024-05-28 01:37:40 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:37:40 - Successfully wrote to UIDContainer.php
+2024-05-28 01:37:48 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 01:37:48 - Successfully wrote to UIDContainer.php
+2024-05-28 01:37:52 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:37:52 - Successfully wrote to UIDContainer.php
+2024-05-28 01:37:53 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:37:53 - Successfully wrote to UIDContainer.php
+2024-05-28 01:40:06 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 01:40:06 - Successfully wrote to UIDContainer.php
+2024-05-28 01:40:09 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 01:40:09 - Successfully wrote to UIDContainer.php
+2024-05-28 01:40:10 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 01:40:10 - Successfully wrote to UIDContainer.php
+2024-05-28 01:40:14 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:40:14 - Successfully wrote to UIDContainer.php
+2024-05-28 01:40:17 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:40:17 - Successfully wrote to UIDContainer.php
+2024-05-28 01:40:28 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 01:40:28 - Successfully wrote to UIDContainer.php
+2024-05-28 01:40:32 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 01:40:32 - Successfully wrote to UIDContainer.php
+2024-05-28 01:41:40 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 01:41:40 - Successfully wrote to UIDContainer.php
+2024-05-28 03:00:13 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:00:13 - Successfully wrote to UIDContainer.php
+2024-05-28 03:00:14 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:00:14 - Successfully wrote to UIDContainer.php
+2024-05-28 03:00:17 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:00:17 - Successfully wrote to UIDContainer.php
+2024-05-28 03:00:18 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:00:18 - Successfully wrote to UIDContainer.php
+2024-05-28 03:00:19 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:00:19 - Successfully wrote to UIDContainer.php
+2024-05-28 03:00:26 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:00:26 - Successfully wrote to UIDContainer.php
+2024-05-28 03:00:35 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:00:35 - Successfully wrote to UIDContainer.php
+2024-05-28 03:00:36 - Received UIDresult: 1DA6F4E6 from device: Device123
+2024-05-28 03:00:36 - Successfully wrote session product data to session_product.json
+2024-05-28 03:00:40 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:00:40 - Successfully wrote to UIDContainer.php
+2024-05-28 03:00:42 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:00:42 - Successfully wrote to UIDContainer.php
+2024-05-28 03:00:44 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:00:44 - Successfully wrote to UIDContainer.php
+2024-05-28 03:01:05 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:01:05 - Successfully wrote to UIDContainer.php
+2024-05-28 03:01:06 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:01:06 - Successfully wrote to UIDContainer.php
+2024-05-28 03:01:06 - Received UIDresult: 1DA6F4E6 from device: Device123
+2024-05-28 03:01:06 - Successfully wrote session product data to session_product.json
+2024-05-28 03:01:25 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 03:01:25 - Successfully wrote to UIDContainer.php
+2024-05-28 03:01:26 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 03:01:26 - Successfully wrote to UIDContainer.php
+2024-05-28 03:01:57 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:01:57 - Successfully wrote to UIDContainer.php
+2024-05-28 03:03:35 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:03:35 - Successfully wrote to UIDContainer.php
+2024-05-28 03:03:35 - Received UIDresult: 1DA6F4E6 from device: Device123
+2024-05-28 03:03:35 - Successfully wrote session product data to session_product.json
+2024-05-28 03:04:14 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 03:04:14 - Successfully wrote to UIDContainer.php
+2024-05-28 03:04:21 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 03:04:21 - Successfully wrote to UIDContainer.php
+2024-05-28 03:04:22 - Received UIDresult: 1D13F4E6 from device: Device123
+2024-05-28 03:04:22 - Successfully wrote session product data to session_product.json
+2024-05-28 03:10:14 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 03:10:14 - Successfully wrote to UIDContainer.php
+2024-05-28 03:10:15 - Received UIDresult: 1D14F4E6 from device: Device123
+2024-05-28 03:10:15 - Successfully wrote session product data to session_product.json
+2024-05-28 03:10:15 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 03:10:15 - Successfully wrote to UIDContainer.php
+2024-05-28 03:10:18 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:10:18 - Successfully wrote to UIDContainer.php
+2024-05-28 03:10:19 - Received UIDresult: 1DA6F4E6 from device: Device123
+2024-05-28 03:10:19 - Successfully wrote session product data to session_product.json
+2024-05-28 03:10:24 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:10:24 - Successfully wrote to UIDContainer.php
+2024-05-28 03:10:26 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 03:10:26 - Successfully wrote to UIDContainer.php
+2024-05-28 03:10:29 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 03:10:29 - Successfully wrote to UIDContainer.php
+2024-05-28 03:10:40 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 03:10:40 - Successfully wrote to UIDContainer.php
+2024-05-28 03:10:42 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 03:10:42 - Successfully wrote to UIDContainer.php
+2024-05-28 03:10:44 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 03:10:44 - Successfully wrote to UIDContainer.php
+2024-05-28 03:10:47 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 03:10:47 - Successfully wrote to UIDContainer.php
+2024-05-28 03:10:52 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:10:52 - Successfully wrote to UIDContainer.php
+2024-05-28 03:11:04 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:11:04 - Successfully wrote to UIDContainer.php
+2024-05-28 03:11:19 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:11:19 - Successfully wrote to UIDContainer.php
+2024-05-28 03:14:42 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 03:14:42 - Successfully wrote to UIDContainer.php
+2024-05-28 03:14:43 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 03:14:43 - Successfully wrote to UIDContainer.php
+2024-05-28 03:14:49 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 03:14:49 - Successfully wrote to UIDContainer.php
+2024-05-28 03:14:51 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 03:14:51 - Successfully wrote to UIDContainer.php
+2024-05-28 03:14:54 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:14:54 - Successfully wrote to UIDContainer.php
+2024-05-28 03:14:59 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 03:14:59 - Successfully wrote to UIDContainer.php
+2024-05-28 03:15:34 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 03:15:34 - Successfully wrote to UIDContainer.php
+2024-05-28 03:29:58 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:29:58 - Successfully wrote to UIDContainer.php
+2024-05-28 03:29:59 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:29:59 - Successfully wrote to UIDContainer.php
+2024-05-28 03:30:15 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 03:30:15 - Successfully wrote to UIDContainer.php
+2024-05-28 03:30:26 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 03:30:26 - Successfully wrote to UIDContainer.php
+2024-05-28 03:30:29 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 03:30:29 - Successfully wrote to UIDContainer.php
+2024-05-28 03:43:39 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 03:43:39 - Successfully wrote to UIDContainer.php
+2024-05-28 04:11:05 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 04:11:05 - Successfully wrote to UIDContainer.php
+2024-05-28 04:11:05 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:11:14 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 04:11:14 - Successfully wrote to UIDContainer.php
+2024-05-28 04:11:14 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:11:19 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 04:11:19 - Successfully wrote to UIDContainer.php
+2024-05-28 04:11:19 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:11:20 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 04:11:20 - Successfully wrote to UIDContainer.php
+2024-05-28 04:11:20 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:11:21 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 04:11:21 - Successfully wrote to UIDContainer.php
+2024-05-28 04:11:21 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:11:22 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 04:11:22 - Successfully wrote to UIDContainer.php
+2024-05-28 04:11:22 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:11:25 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 04:11:25 - Successfully wrote to UIDContainer.php
+2024-05-28 04:11:25 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:11:27 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 04:11:27 - Successfully wrote to UIDContainer.php
+2024-05-28 04:11:27 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:11:35 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 04:11:35 - Successfully wrote to UIDContainer.php
+2024-05-28 04:11:35 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:12:19 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 04:12:19 - Successfully wrote to UIDContainer.php
+2024-05-28 04:12:19 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:12:26 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 04:12:26 - Successfully wrote to UIDContainer.php
+2024-05-28 04:12:26 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:14:14 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 04:14:14 - Successfully wrote to UIDContainer.php
+2024-05-28 04:14:14 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:21:29 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 04:21:29 - Successfully wrote to UIDContainer.php
+2024-05-28 04:21:29 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:21:36 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 04:21:36 - Successfully wrote to UIDContainer.php
+2024-05-28 04:21:36 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:21:37 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-28 04:21:37 - Successfully wrote to UIDContainer.php
+2024-05-28 04:21:37 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:21:41 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 04:21:41 - Successfully wrote to UIDContainer.php
+2024-05-28 04:21:41 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:21:50 - Received UIDresult: 1D13F4E6 from device: 0054F0C9
+2024-05-28 04:21:50 - Successfully wrote to UIDContainer.php
+2024-05-28 04:21:50 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:21:53 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 04:21:53 - Successfully wrote to UIDContainer.php
+2024-05-28 04:21:53 - Successfully wrote to UUIDContainer.php
+2024-05-28 04:21:54 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-28 04:21:54 - Successfully wrote to UIDContainer.php
+2024-05-28 04:21:54 - Successfully wrote to UUIDContainer.php
+2024-05-30 02:12:17 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 02:12:17 - Successfully wrote to UIDContainer.php
+2024-05-30 02:12:17 - Successfully wrote to UUIDContainer.php
+2024-05-30 02:12:27 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 02:12:27 - Successfully wrote to UIDContainer.php
+2024-05-30 02:12:27 - Successfully wrote to UUIDContainer.php
+2024-05-30 02:12:28 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 02:12:28 - Successfully wrote to UIDContainer.php
+2024-05-30 02:12:28 - Successfully wrote to UUIDContainer.php
+2024-05-30 02:12:30 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 02:12:30 - Successfully wrote to UIDContainer.php
+2024-05-30 02:12:30 - Successfully wrote to UUIDContainer.php
+2024-05-30 02:12:32 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 02:12:32 - Successfully wrote to UIDContainer.php
+2024-05-30 02:12:32 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:23:36 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:23:36 - Successfully wrote to UIDContainer.php
+2024-05-30 04:23:36 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:23:37 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:23:37 - Successfully wrote to UIDContainer.php
+2024-05-30 04:23:37 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:23:38 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:23:38 - Successfully wrote to UIDContainer.php
+2024-05-30 04:23:38 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:23:39 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:23:39 - Successfully wrote to UIDContainer.php
+2024-05-30 04:23:39 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:26:46 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:26:46 - Successfully wrote to UIDContainer.php
+2024-05-30 04:26:46 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:26:47 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:26:47 - Successfully wrote to UIDContainer.php
+2024-05-30 04:26:47 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:26:49 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:26:49 - Successfully wrote to UIDContainer.php
+2024-05-30 04:26:49 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:26:50 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:26:50 - Successfully wrote to UIDContainer.php
+2024-05-30 04:26:50 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:28:23 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:28:23 - Successfully wrote to UIDContainer.php
+2024-05-30 04:28:23 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:28:25 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:28:25 - Successfully wrote to UIDContainer.php
+2024-05-30 04:28:25 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:28:27 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:28:27 - Successfully wrote to UIDContainer.php
+2024-05-30 04:28:27 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:28:28 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:28:28 - Successfully wrote to UIDContainer.php
+2024-05-30 04:28:28 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:28:29 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:28:29 - Successfully wrote to UIDContainer.php
+2024-05-30 04:28:29 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:29:10 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:29:10 - Successfully wrote to UIDContainer.php
+2024-05-30 04:29:10 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:29:15 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:29:15 - Successfully wrote to UIDContainer.php
+2024-05-30 04:29:15 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:29:22 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:29:22 - Successfully wrote to UIDContainer.php
+2024-05-30 04:29:22 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:29:23 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:29:23 - Successfully wrote to UIDContainer.php
+2024-05-30 04:29:23 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:29:24 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:29:24 - Successfully wrote to UIDContainer.php
+2024-05-30 04:29:24 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:29:55 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:29:55 - Successfully wrote to UIDContainer.php
+2024-05-30 04:29:55 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:29:57 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:29:57 - Successfully wrote to UIDContainer.php
+2024-05-30 04:29:57 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:29:59 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:29:59 - Successfully wrote to UIDContainer.php
+2024-05-30 04:29:59 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:30:00 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:30:00 - Successfully wrote to UIDContainer.php
+2024-05-30 04:30:00 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:30:06 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:30:06 - Successfully wrote to UIDContainer.php
+2024-05-30 04:30:06 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:30:08 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:30:08 - Successfully wrote to UIDContainer.php
+2024-05-30 04:30:08 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:30:10 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:30:10 - Successfully wrote to UIDContainer.php
+2024-05-30 04:30:10 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:30:13 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:30:13 - Successfully wrote to UIDContainer.php
+2024-05-30 04:30:13 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:30:15 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:30:15 - Successfully wrote to UIDContainer.php
+2024-05-30 04:30:15 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:30:50 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:30:50 - Successfully wrote to UIDContainer.php
+2024-05-30 04:30:50 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:30:53 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:30:53 - Successfully wrote to UIDContainer.php
+2024-05-30 04:30:53 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:30:57 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:30:57 - Successfully wrote to UIDContainer.php
+2024-05-30 04:30:57 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:30:59 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:30:59 - Successfully wrote to UIDContainer.php
+2024-05-30 04:30:59 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:31:00 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:31:00 - Successfully wrote to UIDContainer.php
+2024-05-30 04:31:00 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:31:01 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:31:01 - Successfully wrote to UIDContainer.php
+2024-05-30 04:31:01 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:31:02 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:31:02 - Successfully wrote to UIDContainer.php
+2024-05-30 04:31:02 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:31:03 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:31:03 - Successfully wrote to UIDContainer.php
+2024-05-30 04:31:03 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:31:05 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:31:05 - Successfully wrote to UIDContainer.php
+2024-05-30 04:31:05 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:31:07 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:31:07 - Successfully wrote to UIDContainer.php
+2024-05-30 04:31:07 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:31:08 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:31:08 - Successfully wrote to UIDContainer.php
+2024-05-30 04:31:08 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:31:09 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:31:09 - Successfully wrote to UIDContainer.php
+2024-05-30 04:31:09 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:32:22 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:32:22 - Successfully wrote to UIDContainer.php
+2024-05-30 04:32:22 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:32:23 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:32:23 - Successfully wrote to UIDContainer.php
+2024-05-30 04:32:23 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:32:24 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:32:24 - Successfully wrote to UIDContainer.php
+2024-05-30 04:32:24 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:32:25 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:32:25 - Successfully wrote to UIDContainer.php
+2024-05-30 04:32:25 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:32:27 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:32:27 - Successfully wrote to UIDContainer.php
+2024-05-30 04:32:27 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:32:28 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:32:28 - Successfully wrote to UIDContainer.php
+2024-05-30 04:32:28 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:32:29 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:32:29 - Successfully wrote to UIDContainer.php
+2024-05-30 04:32:29 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:41:43 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:41:43 - Successfully wrote to UIDContainer.php
+2024-05-30 04:41:43 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:41:57 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:41:57 - Successfully wrote to UIDContainer.php
+2024-05-30 04:41:57 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:41:59 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-05-30 04:41:59 - Successfully wrote to UIDContainer.php
+2024-05-30 04:41:59 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:42:00 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:42:00 - Successfully wrote to UIDContainer.php
+2024-05-30 04:42:00 - Successfully wrote to UUIDContainer.php
+2024-05-30 04:42:01 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-05-30 04:42:01 - Successfully wrote to UIDContainer.php
+2024-05-30 04:42:01 - Successfully wrote to UUIDContainer.php
+2024-06-04 00:42:09 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 00:42:09 - Successfully wrote to UIDContainer.php
+2024-06-04 00:42:09 - Successfully wrote to UUIDContainer.php
+2024-06-04 00:42:18 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 00:42:18 - Successfully wrote to UIDContainer.php
+2024-06-04 00:42:18 - Successfully wrote to UUIDContainer.php
+2024-06-04 00:42:20 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 00:42:20 - Successfully wrote to UIDContainer.php
+2024-06-04 00:42:20 - Successfully wrote to UUIDContainer.php
+2024-06-04 00:42:37 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 00:42:37 - Successfully wrote to UIDContainer.php
+2024-06-04 00:42:37 - Successfully wrote to UUIDContainer.php
+2024-06-04 00:42:38 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 00:42:38 - Successfully wrote to UIDContainer.php
+2024-06-04 00:42:38 - Successfully wrote to UUIDContainer.php
+2024-06-04 00:42:39 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 00:42:39 - Successfully wrote to UIDContainer.php
+2024-06-04 00:42:39 - Successfully wrote to UUIDContainer.php
+2024-06-04 00:42:40 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 00:42:40 - Successfully wrote to UIDContainer.php
+2024-06-04 00:42:40 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:13:05 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:13:05 - Successfully wrote to UIDContainer.php
+2024-06-04 01:13:05 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:13:07 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:13:07 - Successfully wrote to UIDContainer.php
+2024-06-04 01:13:07 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:43:04 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:43:04 - Successfully wrote to UIDContainer.php
+2024-06-04 01:43:04 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:43:43 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:43:43 - Successfully wrote to UIDContainer.php
+2024-06-04 01:43:43 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:43:44 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:43:44 - Successfully wrote to UIDContainer.php
+2024-06-04 01:43:44 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:47:17 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:47:17 - Successfully wrote to UIDContainer.php
+2024-06-04 01:47:17 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:52:13 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:52:13 - Successfully wrote to UIDContainer.php
+2024-06-04 01:52:13 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:55:00 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:55:00 - Successfully wrote to UIDContainer.php
+2024-06-04 01:55:00 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:55:01 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:55:01 - Successfully wrote to UIDContainer.php
+2024-06-04 01:55:01 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:55:03 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:55:03 - Successfully wrote to UIDContainer.php
+2024-06-04 01:55:03 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:55:10 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:55:10 - Successfully wrote to UIDContainer.php
+2024-06-04 01:55:10 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:56:20 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:56:20 - Successfully wrote to UIDContainer.php
+2024-06-04 01:56:20 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:57:03 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:57:03 - Successfully wrote to UIDContainer.php
+2024-06-04 01:57:03 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:59:19 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:59:19 - Successfully wrote to UIDContainer.php
+2024-06-04 01:59:19 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:59:25 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:59:25 - Successfully wrote to UIDContainer.php
+2024-06-04 01:59:25 - Successfully wrote to UUIDContainer.php
+2024-06-04 01:59:55 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 01:59:55 - Successfully wrote to UIDContainer.php
+2024-06-04 01:59:55 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:01:20 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 02:01:20 - Successfully wrote to UIDContainer.php
+2024-06-04 02:01:20 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:02:04 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 02:02:04 - Successfully wrote to UIDContainer.php
+2024-06-04 02:02:04 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:02:21 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 02:02:21 - Successfully wrote to UIDContainer.php
+2024-06-04 02:02:21 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:03:18 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 02:03:18 - Successfully wrote to UIDContainer.php
+2024-06-04 02:03:18 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:03:51 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-04 02:03:51 - Successfully wrote to UIDContainer.php
+2024-06-04 02:03:51 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:03:59 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-04 02:03:59 - Successfully wrote to UIDContainer.php
+2024-06-04 02:03:59 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:04:03 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 02:04:03 - Successfully wrote to UIDContainer.php
+2024-06-04 02:04:03 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:04:05 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 02:04:05 - Successfully wrote to UIDContainer.php
+2024-06-04 02:04:05 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:04:07 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-04 02:04:07 - Successfully wrote to UIDContainer.php
+2024-06-04 02:04:07 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:32:01 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 02:32:01 - Successfully wrote to UIDContainer.php
+2024-06-04 02:32:01 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:33:54 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 02:33:54 - Successfully wrote to UIDContainer.php
+2024-06-04 02:33:54 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:35:59 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 02:35:59 - Successfully wrote to UIDContainer.php
+2024-06-04 02:35:59 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:36:35 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-04 02:36:35 - Successfully wrote to UIDContainer.php
+2024-06-04 02:36:35 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:36:36 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-04 02:36:36 - Successfully wrote to UIDContainer.php
+2024-06-04 02:36:36 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:36:37 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-04 02:36:37 - Successfully wrote to UIDContainer.php
+2024-06-04 02:36:37 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:36:38 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-04 02:36:38 - Successfully wrote to UIDContainer.php
+2024-06-04 02:36:38 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:37:51 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 02:37:51 - Successfully wrote to UIDContainer.php
+2024-06-04 02:37:51 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:39:08 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 02:39:08 - Successfully wrote to UIDContainer.php
+2024-06-04 02:39:08 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:39:10 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 02:39:10 - Successfully wrote to UIDContainer.php
+2024-06-04 02:39:10 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:52:51 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 02:52:51 - Successfully wrote to UIDContainer.php
+2024-06-04 02:52:51 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:52:53 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 02:52:53 - Successfully wrote to UIDContainer.php
+2024-06-04 02:52:53 - Successfully wrote to UUIDContainer.php
+2024-06-04 02:56:50 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-04 02:56:50 - Successfully wrote to UIDContainer.php
+2024-06-04 02:56:50 - Successfully wrote to UUIDContainer.php
+2024-06-04 03:09:45 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 03:09:45 - Successfully wrote to UIDContainer.php
+2024-06-04 03:09:45 - Successfully wrote to UUIDContainer.php
+2024-06-04 03:09:46 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 03:09:46 - Successfully wrote to UIDContainer.php
+2024-06-04 03:09:46 - Successfully wrote to UUIDContainer.php
+2024-06-04 03:16:46 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 03:16:46 - Successfully wrote to UIDContainer.php
+2024-06-04 03:16:46 - Successfully wrote to UUIDContainer.php
+2024-06-04 03:16:48 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 03:16:48 - Successfully wrote to UIDContainer.php
+2024-06-04 03:16:48 - Successfully wrote to UUIDContainer.php
+2024-06-04 03:28:41 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 03:28:41 - Successfully wrote to UIDContainer.php
+2024-06-04 03:28:41 - Successfully wrote to UUIDContainer.php
+2024-06-04 03:35:44 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 03:35:44 - Successfully wrote to UIDContainer.php
+2024-06-04 03:35:44 - Successfully wrote to UUIDContainer.php
+2024-06-04 03:35:45 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 03:35:45 - Successfully wrote to UIDContainer.php
+2024-06-04 03:35:45 - Successfully wrote to UUIDContainer.php
+2024-06-04 04:02:17 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 04:02:17 - Successfully wrote to UIDContainer.php
+2024-06-04 04:02:17 - Successfully wrote to UUIDContainer.php
+2024-06-04 04:02:44 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-04 04:02:44 - Successfully wrote to UIDContainer.php
+2024-06-04 04:02:44 - Successfully wrote to UUIDContainer.php
+2024-06-05 03:22:13 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-05 03:22:13 - Successfully wrote to UIDContainer.php
+2024-06-05 03:22:13 - Successfully wrote to UUIDContainer.php
+2024-06-05 03:22:38 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-05 03:22:38 - Successfully wrote to UIDContainer.php
+2024-06-05 03:22:38 - Successfully wrote to UUIDContainer.php
+2024-06-05 03:22:52 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-05 03:22:52 - Successfully wrote to UIDContainer.php
+2024-06-05 03:22:52 - Successfully wrote to UUIDContainer.php
+2024-06-05 16:06:31 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-05 16:06:31 - Successfully wrote to UIDContainer.php
+2024-06-05 16:06:31 - Successfully wrote to UUIDContainer.php
+2024-06-05 16:06:48 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-05 16:06:48 - Successfully wrote to UIDContainer.php
+2024-06-05 16:06:48 - Successfully wrote to UUIDContainer.php
+2024-06-05 16:16:51 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-05 16:16:51 - Successfully wrote to UIDContainer.php
+2024-06-05 16:16:51 - Successfully wrote to UUIDContainer.php
+2024-06-05 16:16:54 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-05 16:16:54 - Successfully wrote to UIDContainer.php
+2024-06-05 16:16:54 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:22:45 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-05 18:22:45 - Successfully wrote to UIDContainer.php
+2024-06-05 18:22:45 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:29:56 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-05 18:29:56 - Successfully wrote to UIDContainer.php
+2024-06-05 18:29:56 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:30:00 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-05 18:30:00 - Successfully wrote to UIDContainer.php
+2024-06-05 18:30:00 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:30:05 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-05 18:30:05 - Successfully wrote to UIDContainer.php
+2024-06-05 18:30:05 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:30:07 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-05 18:30:07 - Successfully wrote to UIDContainer.php
+2024-06-05 18:30:07 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:30:10 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-05 18:30:10 - Successfully wrote to UIDContainer.php
+2024-06-05 18:30:10 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:30:14 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-05 18:30:14 - Successfully wrote to UIDContainer.php
+2024-06-05 18:30:14 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:30:16 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-05 18:30:16 - Successfully wrote to UIDContainer.php
+2024-06-05 18:30:16 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:52:52 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-05 18:52:52 - Successfully wrote to UIDContainer.php
+2024-06-05 18:52:52 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:52:54 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-05 18:52:55 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-05 18:52:55 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-05 18:52:56 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-05 18:52:56 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-05 18:52:57 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-05 18:52:58 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-05 18:52:58 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-05 18:52:59 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-05 18:53:00 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-05 18:53:01 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-05 18:53:01 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-05 18:53:18 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-05 18:53:18 - Successfully wrote to UIDContainer.php
+2024-06-05 18:53:18 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:53:23 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-05 18:53:23 - Successfully wrote to UIDContainer.php
+2024-06-05 18:53:23 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:53:25 - Deleted existing document with tag_uid: 1D14F4E6
+2024-06-05 18:53:25 - Deleted existing document with tag_uid: 1D14F4E6
+2024-06-05 18:53:26 - Deleted existing document with tag_uid: 1D14F4E6
+2024-06-05 18:53:26 - Deleted existing document with tag_uid: 1D14F4E6
+2024-06-05 18:53:28 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-05 18:53:28 - Successfully wrote to UIDContainer.php
+2024-06-05 18:53:28 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:53:31 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-05 18:53:31 - Successfully wrote to UIDContainer.php
+2024-06-05 18:53:31 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:53:32 - Deleted existing document with tag_uid: 1D14F4E6
+2024-06-05 18:53:33 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-05 18:53:33 - Successfully wrote to UIDContainer.php
+2024-06-05 18:53:33 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:53:36 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-05 18:53:36 - Successfully wrote to UIDContainer.php
+2024-06-05 18:53:36 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:53:37 - Deleted existing document with tag_uid: 1D14F4E6
+2024-06-05 18:53:38 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-05 18:53:38 - Successfully wrote to UIDContainer.php
+2024-06-05 18:53:38 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:53:41 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-05 18:53:41 - Successfully wrote to UIDContainer.php
+2024-06-05 18:53:41 - Successfully wrote to UUIDContainer.php
+2024-06-05 18:53:42 - Deleted existing document with tag_uid: 1D14F4E6
+2024-06-06 01:20:53 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-06 01:20:53 - Successfully wrote to UIDContainer.php
+2024-06-06 01:20:53 - Successfully wrote to UUIDContainer.php
+2024-06-06 01:20:58 - Scanner ID 0054F0C9 is not active.
+2024-06-06 01:20:59 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-06 01:20:59 - Successfully wrote to UIDContainer.php
+2024-06-06 01:20:59 - Successfully wrote to UUIDContainer.php
+2024-06-06 01:20:59 - Scanner ID 0054F0C9 is not active.
+2024-06-06 01:21:04 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-06 01:21:04 - Successfully wrote to UIDContainer.php
+2024-06-06 01:21:04 - Successfully wrote to UUIDContainer.php
+2024-06-06 01:21:04 - Scanner ID 0054F0C9 is not active.
+2024-06-06 01:23:16 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-06 01:23:16 - Successfully wrote to UIDContainer.php
+2024-06-06 01:23:16 - Successfully wrote to UUIDContainer.php
+2024-06-06 01:23:16 - Scanner ID 0054F0C9 is not active.
+2024-06-06 01:23:24 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-06 01:23:24 - Successfully wrote to UIDContainer.php
+2024-06-06 01:23:24 - Successfully wrote to UUIDContainer.php
+2024-06-06 01:23:24 - Scanner ID 0054F0C9 is not active.
+2024-06-06 01:23:37 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-06 01:23:37 - Successfully wrote to UIDContainer.php
+2024-06-06 01:23:37 - Successfully wrote to UUIDContainer.php
+2024-06-06 01:23:37 - Scanner ID 0054F0C9 is not active.
+2024-06-06 01:23:39 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-06 01:23:39 - Successfully wrote to UIDContainer.php
+2024-06-06 01:23:39 - Successfully wrote to UUIDContainer.php
+2024-06-06 01:23:39 - Scanner ID 0054F0C9 is not active.
+2024-06-06 01:23:40 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-06 01:23:40 - Successfully wrote to UIDContainer.php
+2024-06-06 01:23:40 - Successfully wrote to UUIDContainer.php
+2024-06-06 01:23:40 - Scanner ID 0054F0C9 is not active.
+2024-06-06 01:23:41 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-06 01:23:41 - Successfully wrote to UIDContainer.php
+2024-06-06 01:23:41 - Successfully wrote to UUIDContainer.php
+2024-06-06 01:23:42 - Scanner ID 0054F0C9 is not active.
+2024-06-06 01:23:45 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-06 01:23:45 - Successfully wrote to UIDContainer.php
+2024-06-06 01:23:45 - Successfully wrote to UUIDContainer.php
+2024-06-06 01:23:46 - Scanner ID 0054F0C9 is not active.
+2024-06-06 01:23:47 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-06 01:23:47 - Successfully wrote to UIDContainer.php
+2024-06-06 01:23:47 - Successfully wrote to UUIDContainer.php
+2024-06-06 01:23:47 - Scanner ID 0054F0C9 is not active.
+2024-06-06 01:24:05 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-06 01:24:05 - Successfully wrote to UIDContainer.php
+2024-06-06 01:24:05 - Successfully wrote to UUIDContainer.php
+2024-06-06 01:24:05 - Scanner ID 0054F0C9 is not active.
+2024-06-06 01:25:00 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-06 01:25:00 - Successfully wrote to UIDContainer.php
+2024-06-06 01:25:00 - Successfully wrote to UUIDContainer.php
+2024-06-06 01:25:02 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-06 01:25:03 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-06 01:25:03 - Successfully wrote to UIDContainer.php
+2024-06-06 01:25:03 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:41:02 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:41:02 - Successfully wrote to UIDContainer.php
+2024-06-10 14:41:02 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:41:29 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:41:29 - Successfully wrote to UIDContainer.php
+2024-06-10 14:41:29 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:42:12 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:42:12 - Successfully wrote to UIDContainer.php
+2024-06-10 14:42:12 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:42:15 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:42:15 - Successfully wrote to UIDContainer.php
+2024-06-10 14:42:15 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:43:35 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:43:35 - Successfully wrote to UIDContainer.php
+2024-06-10 14:43:35 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:43:39 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:43:39 - Successfully wrote to UIDContainer.php
+2024-06-10 14:43:39 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:43:41 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:43:41 - Successfully wrote to UIDContainer.php
+2024-06-10 14:43:41 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:43:43 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:43:43 - Successfully wrote to UIDContainer.php
+2024-06-10 14:43:43 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:44:00 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:44:00 - Successfully wrote to UIDContainer.php
+2024-06-10 14:44:00 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:44:10 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:44:10 - Successfully wrote to UIDContainer.php
+2024-06-10 14:44:10 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:57:03 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:57:03 - Successfully wrote to UIDContainer.php
+2024-06-10 14:57:03 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:57:09 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:57:09 - Successfully wrote to UIDContainer.php
+2024-06-10 14:57:09 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:57:16 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:57:16 - Successfully wrote to UIDContainer.php
+2024-06-10 14:57:16 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:57:19 - Deleted existing document with tag_uid: 1D11F4E6
+2024-06-10 14:57:21 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:57:21 - Successfully wrote to UIDContainer.php
+2024-06-10 14:57:21 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:57:26 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:57:26 - Successfully wrote to UIDContainer.php
+2024-06-10 14:57:26 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:57:27 - Deleted existing document with tag_uid: 1D11F4E6
+2024-06-10 14:58:07 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:58:07 - Successfully wrote to UIDContainer.php
+2024-06-10 14:58:07 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:58:10 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 14:58:10 - Successfully wrote to UIDContainer.php
+2024-06-10 14:58:10 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:58:12 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 14:58:12 - Successfully wrote to UIDContainer.php
+2024-06-10 14:58:12 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:58:18 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:58:18 - Successfully wrote to UIDContainer.php
+2024-06-10 14:58:18 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:58:19 - Deleted existing document with tag_uid: 1D11F4E6
+2024-06-10 14:58:22 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 14:58:22 - Successfully wrote to UIDContainer.php
+2024-06-10 14:58:22 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:58:26 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 14:58:26 - Successfully wrote to UIDContainer.php
+2024-06-10 14:58:26 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:58:41 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 14:58:41 - Successfully wrote to UIDContainer.php
+2024-06-10 14:58:41 - Successfully wrote to UUIDContainer.php
+2024-06-10 14:58:52 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 14:58:52 - Successfully wrote to UIDContainer.php
+2024-06-10 14:58:52 - Successfully wrote to UUIDContainer.php
+2024-06-10 16:00:04 - Received UIDresult: 1D11F4E6 from device: 0054F0C9
+2024-06-10 16:00:04 - Successfully wrote to UIDContainer.php
+2024-06-10 16:00:04 - Successfully wrote to UUIDContainer.php
+2024-06-10 17:11:13 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-10 17:11:13 - Successfully wrote to UIDContainer.php
+2024-06-10 17:11:13 - Successfully wrote to UUIDContainer.php
+2024-06-10 17:11:18 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-10 17:11:18 - Successfully wrote to UIDContainer.php
+2024-06-10 17:11:18 - Successfully wrote to UUIDContainer.php
+2024-06-10 17:11:20 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-10 17:11:47 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 17:11:47 - Successfully wrote to UIDContainer.php
+2024-06-10 17:11:47 - Successfully wrote to UUIDContainer.php
+2024-06-10 18:01:18 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-10 18:01:18 - Successfully wrote to UIDContainer.php
+2024-06-10 18:01:18 - Successfully wrote to UUIDContainer.php
+2024-06-10 18:01:25 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-10 18:01:25 - Successfully wrote to UIDContainer.php
+2024-06-10 18:01:25 - Successfully wrote to UUIDContainer.php
+2024-06-10 18:01:27 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-10 18:01:30 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-10 18:01:30 - Successfully wrote to UIDContainer.php
+2024-06-10 18:01:30 - Successfully wrote to UUIDContainer.php
+2024-06-10 18:01:35 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 18:01:35 - Successfully wrote to UIDContainer.php
+2024-06-10 18:01:35 - Successfully wrote to UUIDContainer.php
+2024-06-10 18:01:39 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 18:01:39 - Successfully wrote to UIDContainer.php
+2024-06-10 18:01:39 - Successfully wrote to UUIDContainer.php
+2024-06-10 18:01:41 - Deleted existing document with tag_uid: 1DA6F4E6
+2024-06-10 18:01:42 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-10 18:01:42 - Successfully wrote to UIDContainer.php
+2024-06-10 18:01:42 - Successfully wrote to UUIDContainer.php
+2024-06-10 18:01:44 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-10 18:02:23 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-10 18:02:23 - Successfully wrote to UIDContainer.php
+2024-06-10 18:02:23 - Successfully wrote to UUIDContainer.php
+2024-06-10 18:02:27 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 18:02:27 - Successfully wrote to UIDContainer.php
+2024-06-10 18:02:27 - Successfully wrote to UUIDContainer.php
+2024-06-10 21:06:20 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 21:06:20 - Successfully wrote to UIDContainer.php
+2024-06-10 21:06:20 - Successfully wrote to UUIDContainer.php
+2024-06-10 21:06:27 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 21:06:27 - Successfully wrote to UIDContainer.php
+2024-06-10 21:06:27 - Successfully wrote to UUIDContainer.php
+2024-06-10 21:06:30 - Deleted existing document with tag_uid: 1DA6F4E6
+2024-06-10 21:06:30 - Deleted existing document with tag_uid: 1DA6F4E6
+2024-06-10 21:06:43 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-10 21:06:43 - Successfully wrote to UIDContainer.php
+2024-06-10 21:06:43 - Successfully wrote to UUIDContainer.php
+2024-06-10 21:06:45 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-10 21:52:05 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 21:52:05 - Successfully wrote to UIDContainer.php
+2024-06-10 21:52:05 - Successfully wrote to UUIDContainer.php
+2024-06-10 21:52:17 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 21:52:17 - Successfully wrote to UIDContainer.php
+2024-06-10 21:52:17 - Successfully wrote to UUIDContainer.php
+2024-06-10 21:52:18 - Deleted existing document with tag_uid: 1DA6F4E6
+2024-06-10 21:52:27 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 21:52:27 - Successfully wrote to UIDContainer.php
+2024-06-10 21:52:27 - Successfully wrote to UUIDContainer.php
+2024-06-10 21:52:29 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 21:52:29 - Successfully wrote to UIDContainer.php
+2024-06-10 21:52:29 - Successfully wrote to UUIDContainer.php
+2024-06-10 21:52:31 - Deleted existing document with tag_uid: 1DA6F4E6
+2024-06-10 21:52:32 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 21:52:32 - Successfully wrote to UIDContainer.php
+2024-06-10 21:52:32 - Successfully wrote to UUIDContainer.php
+2024-06-10 21:52:36 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 21:52:36 - Successfully wrote to UIDContainer.php
+2024-06-10 21:52:36 - Successfully wrote to UUIDContainer.php
+2024-06-10 21:52:38 - Deleted existing document with tag_uid: 1DA6F4E6
+2024-06-10 21:52:39 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 21:52:39 - Successfully wrote to UIDContainer.php
+2024-06-10 21:52:39 - Successfully wrote to UUIDContainer.php
+2024-06-10 21:54:13 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 21:54:13 - Successfully wrote to UIDContainer.php
+2024-06-10 21:54:13 - Successfully wrote to UUIDContainer.php
+2024-06-10 21:54:14 - Deleted existing document with tag_uid: 1DA6F4E6
+2024-06-10 21:54:24 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 21:54:24 - Successfully wrote to UIDContainer.php
+2024-06-10 21:54:24 - Successfully wrote to UUIDContainer.php
+2024-06-10 22:18:49 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 22:18:49 - Successfully wrote to UIDContainer.php
+2024-06-10 22:18:49 - Successfully wrote to UUIDContainer.php
+2024-06-10 22:18:51 - Deleted existing document with tag_uid: 1DA6F4E6
+2024-06-10 22:18:56 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 22:18:56 - Successfully wrote to UIDContainer.php
+2024-06-10 22:18:56 - Successfully wrote to UUIDContainer.php
+2024-06-10 22:26:40 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-10 22:26:40 - Successfully wrote to UIDContainer.php
+2024-06-10 22:26:40 - Successfully wrote to UUIDContainer.php
+2024-06-10 22:26:53 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 22:26:53 - Successfully wrote to UIDContainer.php
+2024-06-10 22:26:53 - Successfully wrote to UUIDContainer.php
+2024-06-10 22:26:55 - Deleted existing document with tag_uid: 1DA6F4E6
+2024-06-10 22:27:01 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-10 22:27:01 - Successfully wrote to UIDContainer.php
+2024-06-10 22:27:01 - Successfully wrote to UUIDContainer.php
+2024-06-10 22:27:02 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-10 22:27:52 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-10 22:27:52 - Successfully wrote to UIDContainer.php
+2024-06-10 22:27:52 - Successfully wrote to UUIDContainer.php
+2024-06-10 22:30:15 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 22:30:15 - Successfully wrote to UIDContainer.php
+2024-06-10 22:30:15 - Successfully wrote to UUIDContainer.php
+2024-06-10 22:30:18 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-10 22:30:18 - Successfully wrote to UIDContainer.php
+2024-06-10 22:30:18 - Successfully wrote to UUIDContainer.php
+2024-06-10 22:30:19 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-10 22:30:20 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-10 22:30:20 - Successfully wrote to UIDContainer.php
+2024-06-10 22:30:20 - Successfully wrote to UUIDContainer.php
+2024-06-10 22:30:23 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-10 22:30:23 - Successfully wrote to UIDContainer.php
+2024-06-10 22:30:23 - Successfully wrote to UUIDContainer.php
+2024-06-10 22:30:24 - Deleted existing document with tag_uid: 1DA6F4E6
+2024-06-11 02:22:25 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-11 02:22:25 - Successfully wrote to UIDContainer.php
+2024-06-11 02:22:25 - Successfully wrote to UUIDContainer.php
+2024-06-11 02:22:32 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 02:22:32 - Successfully wrote to UIDContainer.php
+2024-06-11 02:22:32 - Successfully wrote to UUIDContainer.php
+2024-06-11 02:22:34 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-11 02:22:38 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 02:22:38 - Successfully wrote to UIDContainer.php
+2024-06-11 02:22:38 - Successfully wrote to UUIDContainer.php
+2024-06-11 02:22:39 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-11 02:22:42 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 02:22:42 - Successfully wrote to UIDContainer.php
+2024-06-11 02:22:42 - Successfully wrote to UUIDContainer.php
+2024-06-11 02:22:45 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-11 02:22:45 - Successfully wrote to UIDContainer.php
+2024-06-11 02:22:45 - Successfully wrote to UUIDContainer.php
+2024-06-11 02:22:46 - Deleted existing document with tag_uid: 1D14F4E6
+2024-06-11 02:22:51 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-11 02:22:51 - Successfully wrote to UIDContainer.php
+2024-06-11 02:22:51 - Successfully wrote to UUIDContainer.php
+2024-06-11 02:22:52 - Deleted existing document with tag_uid: 1D14F4E6
+2024-06-11 02:22:57 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 02:22:57 - Successfully wrote to UIDContainer.php
+2024-06-11 02:22:57 - Successfully wrote to UUIDContainer.php
+2024-06-11 02:22:58 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-11 02:23:20 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 02:23:20 - Successfully wrote to UIDContainer.php
+2024-06-11 02:23:20 - Successfully wrote to UUIDContainer.php
+2024-06-11 02:23:22 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-11 02:23:28 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-11 02:23:28 - Successfully wrote to UIDContainer.php
+2024-06-11 02:23:28 - Successfully wrote to UUIDContainer.php
+2024-06-11 02:23:47 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-11 02:23:47 - Successfully wrote to UIDContainer.php
+2024-06-11 02:23:47 - Successfully wrote to UUIDContainer.php
+2024-06-11 02:23:48 - Deleted existing document with tag_uid: 1D14F4E6
+2024-06-11 02:23:49 - Deleted existing document with tag_uid: 1D14F4E6
+2024-06-11 02:23:51 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 02:23:51 - Successfully wrote to UIDContainer.php
+2024-06-11 02:23:51 - Successfully wrote to UUIDContainer.php
+2024-06-11 02:24:17 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 02:24:17 - Successfully wrote to UIDContainer.php
+2024-06-11 02:24:17 - Successfully wrote to UUIDContainer.php
+2024-06-11 02:24:18 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-11 02:24:19 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-11 02:24:21 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 02:24:21 - Successfully wrote to UIDContainer.php
+2024-06-11 02:24:21 - Successfully wrote to UUIDContainer.php
+2024-06-11 03:24:28 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-11 03:24:28 - Successfully wrote to UIDContainer.php
+2024-06-11 03:24:28 - Successfully wrote to UUIDContainer.php
+2024-06-11 03:24:54 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 03:24:54 - Successfully wrote to UIDContainer.php
+2024-06-11 03:24:54 - Successfully wrote to UUIDContainer.php
+2024-06-11 05:55:13 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-11 05:55:13 - Successfully wrote to UIDContainer.php
+2024-06-11 05:55:13 - Successfully wrote to UUIDContainer.php
+2024-06-11 09:27:33 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 09:27:33 - Successfully wrote to UIDContainer.php
+2024-06-11 09:27:33 - Successfully wrote to UUIDContainer.php
+2024-06-11 09:27:46 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-11 09:27:46 - Successfully wrote to UIDContainer.php
+2024-06-11 09:27:46 - Successfully wrote to UUIDContainer.php
+2024-06-11 09:27:55 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-11 09:27:55 - Successfully wrote to UIDContainer.php
+2024-06-11 09:27:55 - Successfully wrote to UUIDContainer.php
+2024-06-11 09:27:57 - Deleted existing document with tag_uid: 1D14F4E6
+2024-06-11 09:28:02 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 09:28:02 - Successfully wrote to UIDContainer.php
+2024-06-11 09:28:02 - Successfully wrote to UUIDContainer.php
+2024-06-11 09:28:03 - Deleted existing document with tag_uid: 1D12F4E6
+2024-06-11 09:28:06 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 09:28:06 - Successfully wrote to UIDContainer.php
+2024-06-11 09:28:06 - Successfully wrote to UUIDContainer.php
+2024-06-11 18:47:43 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-11 18:47:43 - Successfully wrote to UIDContainer.php
+2024-06-11 18:47:43 - Successfully wrote to UUIDContainer.php
+2024-06-11 18:47:50 - Scanner ID 0054F0C9 is not active.
+2024-06-11 18:47:52 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 18:47:52 - Successfully wrote to UIDContainer.php
+2024-06-11 18:47:52 - Successfully wrote to UUIDContainer.php
+2024-06-11 18:47:52 - Scanner ID 0054F0C9 is not active.
+2024-06-11 18:48:14 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 18:48:14 - Successfully wrote to UIDContainer.php
+2024-06-11 18:48:14 - Successfully wrote to UUIDContainer.php
+2024-06-11 18:48:15 - Scanner ID 0054F0C9 is not active.
+2024-06-11 18:48:31 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-11 18:48:31 - Successfully wrote to UIDContainer.php
+2024-06-11 18:48:31 - Successfully wrote to UUIDContainer.php
+2024-06-11 18:48:31 - Scanner ID 0054F0C9 is not active.
+2024-06-11 18:48:52 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-11 18:48:52 - Successfully wrote to UIDContainer.php
+2024-06-11 18:48:52 - Successfully wrote to UUIDContainer.php
+2024-06-11 18:49:35 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 18:49:35 - Successfully wrote to UIDContainer.php
+2024-06-11 18:49:35 - Successfully wrote to UUIDContainer.php
+2024-06-11 18:52:19 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-11 18:52:19 - Successfully wrote to UIDContainer.php
+2024-06-11 18:52:19 - Successfully wrote to UUIDContainer.php
+2024-06-11 18:52:48 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-11 18:52:48 - Successfully wrote to UIDContainer.php
+2024-06-11 18:52:48 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:19:54 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:19:54 - Successfully wrote to UIDContainer.php
+2024-06-11 22:19:54 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:22:37 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:22:37 - Successfully wrote to UIDContainer.php
+2024-06-11 22:22:37 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:22:44 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:22:44 - Successfully wrote to UIDContainer.php
+2024-06-11 22:22:44 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:22:45 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-11 22:23:06 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:23:06 - Successfully wrote to UIDContainer.php
+2024-06-11 22:23:06 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:26:19 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:26:19 - Successfully wrote to UIDContainer.php
+2024-06-11 22:26:19 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:26:21 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-11 22:26:22 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:26:22 - Successfully wrote to UIDContainer.php
+2024-06-11 22:26:22 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:41:34 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:41:34 - Successfully wrote to UIDContainer.php
+2024-06-11 22:41:34 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:41:42 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:41:42 - Successfully wrote to UIDContainer.php
+2024-06-11 22:41:42 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:42:02 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:42:02 - Successfully wrote to UIDContainer.php
+2024-06-11 22:42:02 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:42:03 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-11 22:42:08 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:42:08 - Successfully wrote to UIDContainer.php
+2024-06-11 22:42:08 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:42:11 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:42:11 - Successfully wrote to UIDContainer.php
+2024-06-11 22:42:11 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:42:12 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-11 22:42:15 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:42:15 - Successfully wrote to UIDContainer.php
+2024-06-11 22:42:15 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:42:17 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:42:17 - Successfully wrote to UIDContainer.php
+2024-06-11 22:42:17 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:42:17 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-11 22:44:45 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:44:45 - Successfully wrote to UIDContainer.php
+2024-06-11 22:44:45 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:45:37 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:45:37 - Successfully wrote to UIDContainer.php
+2024-06-11 22:45:37 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:45:38 - Scanner ID 0054F0C9 is not active.
+2024-06-11 22:45:43 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:45:43 - Successfully wrote to UIDContainer.php
+2024-06-11 22:45:43 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:45:43 - Scanner ID 0054F0C9 is not active.
+2024-06-11 22:45:47 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:45:47 - Successfully wrote to UIDContainer.php
+2024-06-11 22:45:47 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:45:47 - Scanner ID 0054F0C9 is not active.
+2024-06-11 22:45:49 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:45:49 - Successfully wrote to UIDContainer.php
+2024-06-11 22:45:49 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:45:49 - Scanner ID 0054F0C9 is not active.
+2024-06-11 22:45:50 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:45:50 - Successfully wrote to UIDContainer.php
+2024-06-11 22:45:50 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:45:50 - Scanner ID 0054F0C9 is not active.
+2024-06-11 22:45:51 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:45:51 - Successfully wrote to UIDContainer.php
+2024-06-11 22:45:51 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:45:51 - Scanner ID 0054F0C9 is not active.
+2024-06-11 22:45:53 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 22:45:53 - Successfully wrote to UIDContainer.php
+2024-06-11 22:45:53 - Successfully wrote to UUIDContainer.php
+2024-06-11 22:45:53 - Scanner ID 0054F0C9 is not active.
+2024-06-11 23:40:46 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 23:40:46 - Successfully wrote to UIDContainer.php
+2024-06-11 23:40:46 - Successfully wrote to UUIDContainer.php
+2024-06-11 23:40:47 - Scanner ID 0054F0C9 is not active.
+2024-06-11 23:40:48 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 23:40:48 - Successfully wrote to UIDContainer.php
+2024-06-11 23:40:48 - Successfully wrote to UUIDContainer.php
+2024-06-11 23:40:49 - Scanner ID 0054F0C9 is not active.
+2024-06-11 23:40:56 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 23:40:56 - Successfully wrote to UIDContainer.php
+2024-06-11 23:40:56 - Successfully wrote to UUIDContainer.php
+2024-06-11 23:40:56 - Scanner ID 0054F0C9 is not active.
+2024-06-11 23:41:08 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 23:41:08 - Successfully wrote to UIDContainer.php
+2024-06-11 23:41:08 - Successfully wrote to UUIDContainer.php
+2024-06-11 23:41:08 - Scanner ID 0054F0C9 is not active.
+2024-06-11 23:43:40 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 23:43:40 - Successfully wrote to UIDContainer.php
+2024-06-11 23:43:40 - Successfully wrote to UUIDContainer.php
+2024-06-11 23:43:41 - Scanner ID 0054F0C9 is not active.
+2024-06-11 23:43:57 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 23:43:57 - Successfully wrote to UIDContainer.php
+2024-06-11 23:43:57 - Successfully wrote to UUIDContainer.php
+2024-06-11 23:43:58 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-11 23:44:00 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 23:44:00 - Successfully wrote to UIDContainer.php
+2024-06-11 23:44:00 - Successfully wrote to UUIDContainer.php
+2024-06-11 23:44:58 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 23:44:58 - Successfully wrote to UIDContainer.php
+2024-06-11 23:44:58 - Successfully wrote to UUIDContainer.php
+2024-06-11 23:44:59 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-11 23:45:01 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-11 23:45:01 - Successfully wrote to UIDContainer.php
+2024-06-11 23:45:01 - Successfully wrote to UUIDContainer.php
+2024-06-12 00:16:08 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 00:16:08 - Successfully wrote to UIDContainer.php
+2024-06-12 00:16:08 - Successfully wrote to UUIDContainer.php
+2024-06-12 00:16:12 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-12 00:16:19 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 00:16:19 - Successfully wrote to UIDContainer.php
+2024-06-12 00:16:19 - Successfully wrote to UUIDContainer.php
+2024-06-12 00:16:30 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 00:16:30 - Successfully wrote to UIDContainer.php
+2024-06-12 00:16:30 - Successfully wrote to UUIDContainer.php
+2024-06-12 00:16:31 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-12 00:16:34 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 00:16:34 - Successfully wrote to UIDContainer.php
+2024-06-12 00:16:34 - Successfully wrote to UUIDContainer.php
+2024-06-12 00:16:39 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 00:16:39 - Successfully wrote to UIDContainer.php
+2024-06-12 00:16:39 - Successfully wrote to UUIDContainer.php
+2024-06-12 00:16:41 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-12 00:18:18 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 00:18:18 - Successfully wrote to UIDContainer.php
+2024-06-12 00:18:18 - Successfully wrote to UUIDContainer.php
+2024-06-12 00:18:25 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 00:18:25 - Successfully wrote to UIDContainer.php
+2024-06-12 00:18:25 - Successfully wrote to UUIDContainer.php
+2024-06-12 00:18:27 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-12 00:18:33 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 00:18:33 - Successfully wrote to UIDContainer.php
+2024-06-12 00:18:33 - Successfully wrote to UUIDContainer.php
+2024-06-12 00:18:38 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 00:18:38 - Successfully wrote to UIDContainer.php
+2024-06-12 00:18:38 - Successfully wrote to UUIDContainer.php
+2024-06-12 00:18:40 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-12 00:18:41 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 00:18:41 - Successfully wrote to UIDContainer.php
+2024-06-12 00:18:41 - Successfully wrote to UUIDContainer.php
+2024-06-12 00:18:46 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 00:18:46 - Successfully wrote to UIDContainer.php
+2024-06-12 00:18:46 - Successfully wrote to UUIDContainer.php
+2024-06-12 00:18:48 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-12 00:19:28 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 00:19:28 - Successfully wrote to UIDContainer.php
+2024-06-12 00:19:28 - Successfully wrote to UUIDContainer.php
+2024-06-12 00:20:21 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 00:20:21 - Successfully wrote to UIDContainer.php
+2024-06-12 00:20:21 - Successfully wrote to UUIDContainer.php
+2024-06-12 00:20:23 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-12 01:00:58 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 01:00:58 - Successfully wrote to UIDContainer.php
+2024-06-12 01:00:58 - Successfully wrote to UUIDContainer.php
+2024-06-12 01:01:10 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 01:01:10 - Successfully wrote to UIDContainer.php
+2024-06-12 01:01:10 - Successfully wrote to UUIDContainer.php
+2024-06-12 01:01:11 - Deleted existing document with tag_uid: 91F94ED3
+2024-06-12 01:01:22 - Received UIDresult: 91F94ED3 from device: 0054F0C9
+2024-06-12 01:01:22 - Successfully wrote to UIDContainer.php
+2024-06-12 01:01:22 - Successfully wrote to UUIDContainer.php
+2024-06-12 13:24:32 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-12 13:24:32 - Successfully wrote to UIDContainer.php
+2024-06-12 13:24:32 - Successfully wrote to UUIDContainer.php
+2024-06-12 13:25:07 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-12 13:25:07 - Successfully wrote to UIDContainer.php
+2024-06-12 13:25:07 - Successfully wrote to UUIDContainer.php
+2024-06-12 20:50:43 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-12 20:50:43 - Successfully wrote to UIDContainer.php
+2024-06-12 20:50:43 - Successfully wrote to UUIDContainer.php
+2024-06-12 20:50:52 - Deleted existing document with tag_uid: 1D14F4E6
+2024-06-12 20:50:56 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-12 20:50:56 - Successfully wrote to UIDContainer.php
+2024-06-12 20:50:56 - Successfully wrote to UUIDContainer.php
+2024-06-12 21:41:52 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-12 21:41:52 - Successfully wrote to UIDContainer.php
+2024-06-12 21:41:52 - Successfully wrote to UUIDContainer.php
+2024-06-12 21:41:56 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-12 21:41:56 - Successfully wrote to UIDContainer.php
+2024-06-12 21:41:56 - Successfully wrote to UUIDContainer.php
+2024-06-12 21:42:16 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-12 21:42:16 - Successfully wrote to UIDContainer.php
+2024-06-12 21:42:16 - Successfully wrote to UUIDContainer.php
+2024-06-12 21:42:21 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-12 21:42:21 - Successfully wrote to UIDContainer.php
+2024-06-12 21:42:21 - Successfully wrote to UUIDContainer.php
+2024-06-12 21:42:24 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-12 21:42:24 - Successfully wrote to UIDContainer.php
+2024-06-12 21:42:24 - Successfully wrote to UUIDContainer.php
+2024-06-12 21:42:47 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-12 21:42:47 - Successfully wrote to UIDContainer.php
+2024-06-12 21:42:47 - Successfully wrote to UUIDContainer.php
+2024-06-12 21:43:03 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-12 21:43:03 - Successfully wrote to UIDContainer.php
+2024-06-12 21:43:03 - Successfully wrote to UUIDContainer.php
+2024-06-12 21:43:16 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-12 21:43:16 - Successfully wrote to UIDContainer.php
+2024-06-12 21:43:16 - Successfully wrote to UUIDContainer.php
+2024-06-12 22:31:51 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-12 22:31:51 - Successfully wrote to UIDContainer.php
+2024-06-12 22:31:51 - Successfully wrote to UUIDContainer.php
+2024-06-12 22:31:58 - Received UIDresult: 1DA6F4E6 from device: 0054F0C9
+2024-06-12 22:31:58 - Successfully wrote to UIDContainer.php
+2024-06-12 22:31:58 - Successfully wrote to UUIDContainer.php
+2024-06-12 22:32:02 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-12 22:32:02 - Successfully wrote to UIDContainer.php
+2024-06-12 22:32:02 - Successfully wrote to UUIDContainer.php
+2024-06-12 22:32:03 - Deleted existing document with tag_uid: 1D14F4E6
+2024-06-12 22:32:44 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-12 22:32:44 - Successfully wrote to UIDContainer.php
+2024-06-12 22:32:44 - Successfully wrote to UUIDContainer.php
+2024-06-14 16:46:06 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 16:46:06 - Successfully wrote to UIDContainer.php
+2024-06-14 16:46:06 - Successfully wrote to UUIDContainer.php
+2024-06-14 16:46:35 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 16:46:35 - Successfully wrote to UIDContainer.php
+2024-06-14 16:46:35 - Successfully wrote to UUIDContainer.php
+2024-06-14 16:46:50 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 16:46:50 - Successfully wrote to UIDContainer.php
+2024-06-14 16:46:50 - Successfully wrote to UUIDContainer.php
+2024-06-14 16:47:22 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 16:47:22 - Successfully wrote to UIDContainer.php
+2024-06-14 16:47:22 - Successfully wrote to UUIDContainer.php
+2024-06-14 16:47:27 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 16:47:27 - Successfully wrote to UIDContainer.php
+2024-06-14 16:47:27 - Successfully wrote to UUIDContainer.php
+2024-06-14 16:47:35 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 16:47:35 - Successfully wrote to UIDContainer.php
+2024-06-14 16:47:35 - Successfully wrote to UUIDContainer.php
+2024-06-14 16:47:43 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 16:47:43 - Successfully wrote to UIDContainer.php
+2024-06-14 16:47:43 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:10:10 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 17:10:10 - Successfully wrote to UIDContainer.php
+2024-06-14 17:10:10 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:10:18 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 17:10:18 - Successfully wrote to UIDContainer.php
+2024-06-14 17:10:18 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:10:23 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:10:23 - Successfully wrote to UIDContainer.php
+2024-06-14 17:10:23 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:10:30 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:10:30 - Successfully wrote to UIDContainer.php
+2024-06-14 17:10:30 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:10:36 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:10:36 - Successfully wrote to UIDContainer.php
+2024-06-14 17:10:36 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:17:22 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:17:22 - Successfully wrote to UIDContainer.php
+2024-06-14 17:17:22 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:17:27 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:17:27 - Successfully wrote to UIDContainer.php
+2024-06-14 17:17:27 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:17:32 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:17:32 - Successfully wrote to UIDContainer.php
+2024-06-14 17:17:32 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:17:38 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:17:38 - Successfully wrote to UIDContainer.php
+2024-06-14 17:17:38 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:17:43 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:17:43 - Successfully wrote to UIDContainer.php
+2024-06-14 17:17:43 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:18:00 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:18:00 - Successfully wrote to UIDContainer.php
+2024-06-14 17:18:00 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:18:07 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:18:07 - Successfully wrote to UIDContainer.php
+2024-06-14 17:18:08 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:18:12 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:18:12 - Successfully wrote to UIDContainer.php
+2024-06-14 17:18:12 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:18:22 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:18:22 - Successfully wrote to UIDContainer.php
+2024-06-14 17:18:22 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:23:24 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 17:23:24 - Successfully wrote to UIDContainer.php
+2024-06-14 17:23:24 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:23:31 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 17:23:31 - Successfully wrote to UIDContainer.php
+2024-06-14 17:23:31 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:23:34 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 17:23:34 - Successfully wrote to UIDContainer.php
+2024-06-14 17:23:34 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:23:41 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 17:23:41 - Successfully wrote to UIDContainer.php
+2024-06-14 17:23:41 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:23:49 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 17:23:49 - Successfully wrote to UIDContainer.php
+2024-06-14 17:23:49 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:23:55 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:23:55 - Successfully wrote to UIDContainer.php
+2024-06-14 17:23:55 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:24:00 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:24:00 - Successfully wrote to UIDContainer.php
+2024-06-14 17:24:00 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:24:01 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 17:24:04 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:24:04 - Successfully wrote to UIDContainer.php
+2024-06-14 17:24:04 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:24:06 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 17:24:14 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:24:14 - Successfully wrote to UIDContainer.php
+2024-06-14 17:24:14 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:24:15 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 17:24:16 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:24:16 - Successfully wrote to UIDContainer.php
+2024-06-14 17:24:16 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:24:18 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 17:24:19 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:24:19 - Successfully wrote to UIDContainer.php
+2024-06-14 17:24:19 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:24:21 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 17:24:23 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:24:23 - Successfully wrote to UIDContainer.php
+2024-06-14 17:24:23 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:24:25 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 17:24:26 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:24:26 - Successfully wrote to UIDContainer.php
+2024-06-14 17:24:26 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:24:27 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 17:24:29 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:24:29 - Successfully wrote to UIDContainer.php
+2024-06-14 17:24:29 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:24:31 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 17:24:35 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:24:35 - Successfully wrote to UIDContainer.php
+2024-06-14 17:24:35 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:24:36 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 17:30:53 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 17:30:53 - Successfully wrote to UIDContainer.php
+2024-06-14 17:30:53 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:30:59 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:30:59 - Successfully wrote to UIDContainer.php
+2024-06-14 17:30:59 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:31:00 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 17:33:53 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 17:33:53 - Successfully wrote to UIDContainer.php
+2024-06-14 17:33:53 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:34:02 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 17:34:02 - Successfully wrote to UIDContainer.php
+2024-06-14 17:34:02 - Successfully wrote to UUIDContainer.php
+2024-06-14 17:34:04 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 19:03:18 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 19:03:18 - Successfully wrote to UIDContainer.php
+2024-06-14 19:03:18 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:03:23 - Received UIDresult: 1DAAF4E6 from device: 0054F0C9
+2024-06-14 19:03:23 - Successfully wrote to UIDContainer.php
+2024-06-14 19:03:23 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:03:30 - Received UIDresult: 1D93F4E6 from device: 0054F0C9
+2024-06-14 19:03:30 - Successfully wrote to UIDContainer.php
+2024-06-14 19:03:30 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:03:37 - Received UIDresult: 1D94F4E6 from device: 0054F0C9
+2024-06-14 19:03:37 - Successfully wrote to UIDContainer.php
+2024-06-14 19:03:37 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:03:45 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 19:03:45 - Successfully wrote to UIDContainer.php
+2024-06-14 19:03:45 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:03:50 - Received UIDresult: 1DA9F4E6 from device: 0054F0C9
+2024-06-14 19:03:50 - Successfully wrote to UIDContainer.php
+2024-06-14 19:03:50 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:05:23 - Received UIDresult: 1DAAF4E6 from device: 0054F0C9
+2024-06-14 19:05:23 - Successfully wrote to UIDContainer.php
+2024-06-14 19:05:23 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:05:29 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 19:05:29 - Successfully wrote to UIDContainer.php
+2024-06-14 19:05:29 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:05:38 - Received UIDresult: 1DAAF4E6 from device: 0054F0C9
+2024-06-14 19:05:38 - Successfully wrote to UIDContainer.php
+2024-06-14 19:05:38 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:05:40 - Updated existing document with tag_uid: 1DAAF4E6
+2024-06-14 19:06:03 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 19:06:03 - Successfully wrote to UIDContainer.php
+2024-06-14 19:06:03 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:06:04 - Updated existing document with tag_uid: 1D12F4E6
+2024-06-14 19:06:08 - Received UIDresult: 1DAAF4E6 from device: 0054F0C9
+2024-06-14 19:06:08 - Successfully wrote to UIDContainer.php
+2024-06-14 19:06:08 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:06:10 - Updated existing document with tag_uid: 1DAAF4E6
+2024-06-14 19:06:13 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 19:06:13 - Successfully wrote to UIDContainer.php
+2024-06-14 19:06:13 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:06:15 - Updated existing document with tag_uid: 1D12F4E6
+2024-06-14 19:06:17 - Received UIDresult: 1D93F4E6 from device: 0054F0C9
+2024-06-14 19:06:17 - Successfully wrote to UIDContainer.php
+2024-06-14 19:06:17 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:06:19 - Received UIDresult: 1D94F4E6 from device: 0054F0C9
+2024-06-14 19:06:19 - Successfully wrote to UIDContainer.php
+2024-06-14 19:06:19 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:06:22 - Received UIDresult: 1DA9F4E6 from device: 0054F0C9
+2024-06-14 19:06:22 - Successfully wrote to UIDContainer.php
+2024-06-14 19:06:22 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:06:25 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 19:06:25 - Successfully wrote to UIDContainer.php
+2024-06-14 19:06:25 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:08:22 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 19:08:22 - Successfully wrote to UIDContainer.php
+2024-06-14 19:08:22 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:08:24 - Updated existing document with tag_uid: 1D12F4E6
+2024-06-14 19:08:28 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 19:08:29 - Successfully wrote to UIDContainer.php
+2024-06-14 19:08:29 - Successfully wrote to UUIDContainer.php
+2024-06-14 19:08:30 - Updated existing document with tag_uid: 1D12F4E6
+2024-06-14 21:08:19 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:08:19 - Successfully wrote to UIDContainer.php
+2024-06-14 21:08:19 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:08:20 - Scanner ID  is not active.
+2024-06-14 21:08:43 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:08:43 - Successfully wrote to UIDContainer.php
+2024-06-14 21:08:43 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:08:43 - Scanner ID  is not active.
+2024-06-14 21:08:47 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:08:47 - Successfully wrote to UIDContainer.php
+2024-06-14 21:08:47 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:08:47 - Scanner ID  is not active.
+2024-06-14 21:08:52 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:08:52 - Successfully wrote to UIDContainer.php
+2024-06-14 21:08:52 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:08:52 - Scanner ID  is not active.
+2024-06-14 21:08:56 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:08:56 - Successfully wrote to UIDContainer.php
+2024-06-14 21:08:56 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:08:57 - Scanner ID  is not active.
+2024-06-14 21:09:13 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:09:13 - Successfully wrote to UIDContainer.php
+2024-06-14 21:09:13 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:09:14 - Scanner ID  is not active.
+2024-06-14 21:09:21 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:09:21 - Successfully wrote to UIDContainer.php
+2024-06-14 21:09:21 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:09:22 - Scanner ID  is not active.
+2024-06-14 21:09:27 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:09:27 - Successfully wrote to UIDContainer.php
+2024-06-14 21:09:27 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:09:27 - Scanner ID  is not active.
+2024-06-14 21:09:32 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:09:32 - Successfully wrote to UIDContainer.php
+2024-06-14 21:09:32 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:09:32 - Scanner ID  is not active.
+2024-06-14 21:09:35 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:09:35 - Successfully wrote to UIDContainer.php
+2024-06-14 21:09:35 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:09:35 - Scanner ID  is not active.
+2024-06-14 21:09:39 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:09:39 - Successfully wrote to UIDContainer.php
+2024-06-14 21:09:39 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:09:39 - Scanner ID  is not active.
+2024-06-14 21:09:41 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:09:41 - Successfully wrote to UIDContainer.php
+2024-06-14 21:09:41 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:09:41 - Scanner ID  is not active.
+2024-06-14 21:09:52 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:09:52 - Successfully wrote to UIDContainer.php
+2024-06-14 21:09:52 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:09:52 - Scanner ID  is not active.
+2024-06-14 21:09:54 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:09:54 - Successfully wrote to UIDContainer.php
+2024-06-14 21:09:54 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:09:54 - Scanner ID  is not active.
+2024-06-14 21:09:56 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:09:56 - Successfully wrote to UIDContainer.php
+2024-06-14 21:09:56 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:09:56 - Scanner ID  is not active.
+2024-06-14 21:09:58 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:09:58 - Successfully wrote to UIDContainer.php
+2024-06-14 21:09:58 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:09:59 - Scanner ID  is not active.
+2024-06-14 21:10:01 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:10:01 - Successfully wrote to UIDContainer.php
+2024-06-14 21:10:01 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:10:02 - Scanner ID  is not active.
+2024-06-14 21:10:04 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:10:04 - Successfully wrote to UIDContainer.php
+2024-06-14 21:10:04 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:10:05 - Scanner ID  is not active.
+2024-06-14 21:10:06 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:10:06 - Successfully wrote to UIDContainer.php
+2024-06-14 21:10:06 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:10:06 - Scanner ID  is not active.
+2024-06-14 21:10:15 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:10:15 - Successfully wrote to UIDContainer.php
+2024-06-14 21:10:15 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:10:15 - Scanner ID  is not active.
+2024-06-14 21:10:16 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:10:16 - Successfully wrote to UIDContainer.php
+2024-06-14 21:10:16 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:10:17 - Scanner ID  is not active.
+2024-06-14 21:10:19 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:10:19 - Successfully wrote to UIDContainer.php
+2024-06-14 21:10:19 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:10:19 - Scanner ID  is not active.
+2024-06-14 21:10:26 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:10:26 - Successfully wrote to UIDContainer.php
+2024-06-14 21:10:26 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:10:26 - Scanner ID  is not active.
+2024-06-14 21:10:28 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:10:28 - Successfully wrote to UIDContainer.php
+2024-06-14 21:10:28 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:10:28 - Scanner ID  is not active.
+2024-06-14 21:10:30 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:10:30 - Successfully wrote to UIDContainer.php
+2024-06-14 21:10:30 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:10:31 - Scanner ID  is not active.
+2024-06-14 21:11:07 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:11:07 - Successfully wrote to UIDContainer.php
+2024-06-14 21:11:07 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:11:07 - Scanner ID  is not active.
+2024-06-14 21:11:08 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:11:08 - Successfully wrote to UIDContainer.php
+2024-06-14 21:11:08 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:11:09 - Scanner ID  is not active.
+2024-06-14 21:11:20 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:11:20 - Successfully wrote to UIDContainer.php
+2024-06-14 21:11:20 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:11:21 - Scanner ID  is not active.
+2024-06-14 21:12:11 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:12:11 - Successfully wrote to UIDContainer.php
+2024-06-14 21:12:11 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:12:11 - Scanner ID  is not active.
+2024-06-14 21:12:14 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:12:14 - Successfully wrote to UIDContainer.php
+2024-06-14 21:12:14 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:12:15 - Scanner ID  is not active.
+2024-06-14 21:12:21 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:12:21 - Successfully wrote to UIDContainer.php
+2024-06-14 21:12:21 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:12:21 - Scanner ID  is not active.
+2024-06-14 21:12:34 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:12:34 - Successfully wrote to UIDContainer.php
+2024-06-14 21:12:34 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:12:34 - Scanner ID  is not active.
+2024-06-14 21:12:37 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:12:37 - Successfully wrote to UIDContainer.php
+2024-06-14 21:12:37 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:12:37 - Scanner ID  is not active.
+2024-06-14 21:12:45 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:12:45 - Successfully wrote to UIDContainer.php
+2024-06-14 21:12:45 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:12:45 - Scanner ID  is not active.
+2024-06-14 21:12:46 - Received UIDresult: 1DAAF4E6 from device: 
+2024-06-14 21:12:46 - Successfully wrote to UIDContainer.php
+2024-06-14 21:12:46 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:12:47 - Scanner ID  is not active.
+2024-06-14 21:12:49 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:12:49 - Successfully wrote to UIDContainer.php
+2024-06-14 21:12:49 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:12:49 - Scanner ID  is not active.
+2024-06-14 21:12:51 - Received UIDresult: 1D14F4E6 from device: 
+2024-06-14 21:12:51 - Successfully wrote to UIDContainer.php
+2024-06-14 21:12:51 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:12:52 - Scanner ID  is not active.
+2024-06-14 21:13:09 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:13:09 - Successfully wrote to UIDContainer.php
+2024-06-14 21:13:09 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:13:09 - Scanner ID  is not active.
+2024-06-14 21:15:47 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:15:47 - Successfully wrote to UIDContainer.php
+2024-06-14 21:15:47 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:15:47 - Scanner ID  is not active.
+2024-06-14 21:15:52 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:15:52 - Successfully wrote to UIDContainer.php
+2024-06-14 21:15:52 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:15:52 - Scanner ID  is not active.
+2024-06-14 21:19:39 - Received UIDresult: 1D93F4E6 from device: 
+2024-06-14 21:19:39 - Successfully wrote to UIDContainer.php
+2024-06-14 21:19:39 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:19:40 - Scanner ID  is not active.
+2024-06-14 21:21:04 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 21:21:04 - Successfully wrote to UIDContainer.php
+2024-06-14 21:21:04 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:21:38 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 21:21:38 - Successfully wrote to UIDContainer.php
+2024-06-14 21:21:38 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:21:40 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 21:21:52 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 21:21:52 - Successfully wrote to UIDContainer.php
+2024-06-14 21:21:52 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:21:53 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 21:21:57 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 21:21:57 - Successfully wrote to UIDContainer.php
+2024-06-14 21:21:57 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:21:59 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 21:22:02 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 21:22:02 - Successfully wrote to UIDContainer.php
+2024-06-14 21:22:02 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:22:04 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 21:25:14 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 21:25:14 - Successfully wrote to UIDContainer.php
+2024-06-14 21:25:14 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:25:15 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 21:25:18 - Received UIDresult: 1DAAF4E6 from device: 0054F0C9
+2024-06-14 21:25:18 - Successfully wrote to UIDContainer.php
+2024-06-14 21:25:18 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:31:02 - Received UIDresult: 1DAAF4E6 from device: 0054F0C9
+2024-06-14 21:31:02 - Successfully wrote to UIDContainer.php
+2024-06-14 21:31:02 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:31:11 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 21:31:11 - Successfully wrote to UIDContainer.php
+2024-06-14 21:31:11 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:37:01 - Received UIDresult: 1DAAF4E6 from device: 0054F0C9
+2024-06-14 21:37:01 - Successfully wrote to UIDContainer.php
+2024-06-14 21:37:01 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:37:08 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 21:37:08 - Successfully wrote to UIDContainer.php
+2024-06-14 21:37:08 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:37:17 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 21:37:17 - Successfully wrote to UIDContainer.php
+2024-06-14 21:37:17 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:37:32 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-14 21:37:32 - Successfully wrote to UIDContainer.php
+2024-06-14 21:37:32 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:37:38 - Received UIDresult: 1DAAF4E6 from device: 0054F0C9
+2024-06-14 21:37:38 - Successfully wrote to UIDContainer.php
+2024-06-14 21:37:38 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:37:40 - Updated existing document with tag_uid: 1DAAF4E6
+2024-06-14 21:51:11 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 21:51:11 - Successfully wrote to UIDContainer.php
+2024-06-14 21:51:11 - Successfully wrote to UUIDContainer.php
+2024-06-14 21:51:15 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 21:51:15 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 21:54:38 - Received UIDresult: 1D98F4E6 from device: 0054F0C9
+2024-06-14 21:54:38 - Successfully wrote to UIDContainer.php
+2024-06-14 21:54:38 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:08:09 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-14 22:08:09 - Successfully wrote to UIDContainer.php
+2024-06-14 22:08:09 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:08:14 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-14 22:08:15 - Received UIDresult: 1D95F4E6 from device: 0054F0C9
+2024-06-14 22:08:15 - Successfully wrote to UIDContainer.php
+2024-06-14 22:08:15 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:08:32 - Received UIDresult: 1DA2F4E6 from device: 0054F0C9
+2024-06-14 22:08:32 - Successfully wrote to UIDContainer.php
+2024-06-14 22:08:32 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:08:42 - Received UIDresult: 1DA8F4E6 from device: 0054F0C9
+2024-06-14 22:08:42 - Successfully wrote to UIDContainer.php
+2024-06-14 22:08:42 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:08:50 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-14 22:08:50 - Successfully wrote to UIDContainer.php
+2024-06-14 22:08:50 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:08:55 - Received UIDresult: 1D9EF4E6 from device: 0054F0C9
+2024-06-14 22:08:55 - Successfully wrote to UIDContainer.php
+2024-06-14 22:08:55 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:09:03 - Received UIDresult: 1D93F4E6 from device: 0054F0C9
+2024-06-14 22:09:03 - Successfully wrote to UIDContainer.php
+2024-06-14 22:09:03 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:09:07 - Received UIDresult: 1DA0F4E6 from device: 0054F0C9
+2024-06-14 22:09:07 - Successfully wrote to UIDContainer.php
+2024-06-14 22:09:07 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:09:14 - Received UIDresult: 1D9AF4E6 from device: 0054F0C9
+2024-06-14 22:09:14 - Successfully wrote to UIDContainer.php
+2024-06-14 22:09:14 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:09:22 - Received UIDresult: 1D9DF4E6 from device: 0054F0C9
+2024-06-14 22:09:22 - Successfully wrote to UIDContainer.php
+2024-06-14 22:09:22 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:09:26 - Received UIDresult: 1DA4F4E6 from device: 0054F0C9
+2024-06-14 22:09:26 - Successfully wrote to UIDContainer.php
+2024-06-14 22:09:26 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:09:32 - Received UIDresult: 1DA4F4E6 from device: 0054F0C9
+2024-06-14 22:09:32 - Successfully wrote to UIDContainer.php
+2024-06-14 22:09:32 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:09:36 - Received UIDresult: 1DAAF4E6 from device: 0054F0C9
+2024-06-14 22:09:36 - Successfully wrote to UIDContainer.php
+2024-06-14 22:09:36 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:09:37 - Updated existing document with tag_uid: 1DAAF4E6
+2024-06-14 22:09:42 - Received UIDresult: 1D9CF4E6 from device: 0054F0C9
+2024-06-14 22:09:42 - Successfully wrote to UIDContainer.php
+2024-06-14 22:09:42 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:09:46 - Received UIDresult: 1D9CF4E6 from device: 0054F0C9
+2024-06-14 22:09:46 - Successfully wrote to UIDContainer.php
+2024-06-14 22:09:46 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:09:54 - Received UIDresult: 1D9BF4E6 from device: 0054F0C9
+2024-06-14 22:09:54 - Successfully wrote to UIDContainer.php
+2024-06-14 22:09:54 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:10:00 - Received UIDresult: 1D9BF4E6 from device: 0054F0C9
+2024-06-14 22:10:00 - Successfully wrote to UIDContainer.php
+2024-06-14 22:10:00 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:10:04 - Received UIDresult: 1D9FF4E6 from device: 0054F0C9
+2024-06-14 22:10:04 - Successfully wrote to UIDContainer.php
+2024-06-14 22:10:04 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:10:11 - Received UIDresult: 1DA7F4E6 from device: 0054F0C9
+2024-06-14 22:10:11 - Successfully wrote to UIDContainer.php
+2024-06-14 22:10:11 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:10:19 - Received UIDresult: 1D92F4E6 from device: 0054F0C9
+2024-06-14 22:10:19 - Successfully wrote to UIDContainer.php
+2024-06-14 22:10:19 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:10:20 - Received UIDresult: 1D92F4E6 from device: 0054F0C9
+2024-06-14 22:10:20 - Successfully wrote to UIDContainer.php
+2024-06-14 22:10:20 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:10:24 - Received UIDresult: 1D10F4E6 from device: 0054F0C9
+2024-06-14 22:10:24 - Successfully wrote to UIDContainer.php
+2024-06-14 22:10:24 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:10:26 - Received UIDresult: 1D10F4E6 from device: 0054F0C9
+2024-06-14 22:10:26 - Successfully wrote to UIDContainer.php
+2024-06-14 22:10:26 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:10:30 - Received UIDresult: 1DA9F4E6 from device: 0054F0C9
+2024-06-14 22:10:30 - Successfully wrote to UIDContainer.php
+2024-06-14 22:10:30 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:11:50 - Received UIDresult: 1D98F4E6 from device: 0054F0C9
+2024-06-14 22:11:50 - Successfully wrote to UIDContainer.php
+2024-06-14 22:11:50 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:12:00 - Received UIDresult: 1D94F4E6 from device: 0054F0C9
+2024-06-14 22:12:00 - Successfully wrote to UIDContainer.php
+2024-06-14 22:12:00 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:12:06 - Received UIDresult: 1D99F4E6 from device: 0054F0C9
+2024-06-14 22:12:06 - Successfully wrote to UIDContainer.php
+2024-06-14 22:12:06 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:12:13 - Received UIDresult: 1D98F4E6 from device: 0054F0C9
+2024-06-14 22:12:13 - Successfully wrote to UIDContainer.php
+2024-06-14 22:12:13 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:12:14 - Received UIDresult: 1D98F4E6 from device: 0054F0C9
+2024-06-14 22:12:14 - Successfully wrote to UIDContainer.php
+2024-06-14 22:12:14 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:12:16 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-14 22:12:16 - Successfully wrote to UIDContainer.php
+2024-06-14 22:12:16 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:12:19 - Received UIDresult: 1D98F4E6 from device: 0054F0C9
+2024-06-14 22:12:19 - Successfully wrote to UIDContainer.php
+2024-06-14 22:12:19 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:12:26 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-14 22:12:26 - Successfully wrote to UIDContainer.php
+2024-06-14 22:12:26 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:12:33 - Received UIDresult: 1DA3F4E6 from device: 0054F0C9
+2024-06-14 22:12:33 - Successfully wrote to UIDContainer.php
+2024-06-14 22:12:33 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:12:47 - Received UIDresult: 1DA1F4E6 from device: 0054F0C9
+2024-06-14 22:12:47 - Successfully wrote to UIDContainer.php
+2024-06-14 22:12:47 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:12:55 - Received UIDresult: 1DA5F4E6 from device: 0054F0C9
+2024-06-14 22:12:55 - Successfully wrote to UIDContainer.php
+2024-06-14 22:12:55 - Successfully wrote to UUIDContainer.php
+2024-06-14 22:31:17 - Received UIDresult: 1D99F4E6 from device: 0054F0C9
+2024-06-14 22:31:17 - Successfully wrote to UIDContainer.php
+2024-06-14 22:31:17 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:02:14 - Received UIDresult: 1D92F4E6 from device: 0054F0C9
+2024-06-15 00:02:14 - Successfully wrote to UIDContainer.php
+2024-06-15 00:02:14 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:03:05 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-15 00:03:05 - Successfully wrote to UIDContainer.php
+2024-06-15 00:03:05 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:03:06 - Updated existing document with tag_uid: 1D12F4E6
+2024-06-15 00:03:08 - Received UIDresult: 1D9EF4E6 from device: 0054F0C9
+2024-06-15 00:03:08 - Successfully wrote to UIDContainer.php
+2024-06-15 00:03:08 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:03:12 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-15 00:03:12 - Successfully wrote to UIDContainer.php
+2024-06-15 00:03:12 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:03:14 - Received UIDresult: 1DA1F4E6 from device: 0054F0C9
+2024-06-15 00:03:14 - Successfully wrote to UIDContainer.php
+2024-06-15 00:03:14 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:03:29 - Received UIDresult: 1D9CF4E6 from device: 0054F0C9
+2024-06-15 00:03:29 - Successfully wrote to UIDContainer.php
+2024-06-15 00:03:29 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:03:43 - Received UIDresult: 1D9DF4E6 from device: 0054F0C9
+2024-06-15 00:03:43 - Successfully wrote to UIDContainer.php
+2024-06-15 00:03:43 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:06:35 - Received UIDresult: 1DA8F4E6 from device: 0054F0C9
+2024-06-15 00:06:35 - Successfully wrote to UIDContainer.php
+2024-06-15 00:06:35 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:06:41 - Received UIDresult: 1DA2F4E6 from device: 0054F0C9
+2024-06-15 00:06:41 - Successfully wrote to UIDContainer.php
+2024-06-15 00:06:41 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:07:05 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-15 00:07:05 - Successfully wrote to UIDContainer.php
+2024-06-15 00:07:05 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:07:05 - Updated existing document with tag_uid: 1D96F4E6
+2024-06-15 00:07:10 - Received UIDresult: 1DA2F4E6 from device: 0054F0C9
+2024-06-15 00:07:10 - Successfully wrote to UIDContainer.php
+2024-06-15 00:07:10 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:07:11 - Updated existing document with tag_uid: 1DA2F4E6
+2024-06-15 00:07:12 - Received UIDresult: 1DA3F4E6 from device: 0054F0C9
+2024-06-15 00:07:12 - Successfully wrote to UIDContainer.php
+2024-06-15 00:07:12 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:07:14 - Received UIDresult: 1D9EF4E6 from device: 0054F0C9
+2024-06-15 00:07:14 - Successfully wrote to UIDContainer.php
+2024-06-15 00:07:14 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:07:15 - Updated existing document with tag_uid: 1D9EF4E6
+2024-06-15 00:07:17 - Received UIDresult: 1DA8F4E6 from device: 0054F0C9
+2024-06-15 00:07:17 - Successfully wrote to UIDContainer.php
+2024-06-15 00:07:17 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:07:18 - Updated existing document with tag_uid: 1DA8F4E6
+2024-06-15 00:07:19 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-15 00:07:19 - Successfully wrote to UIDContainer.php
+2024-06-15 00:07:19 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:07:20 - Updated existing document with tag_uid: 1D12F4E6
+2024-06-15 00:07:22 - Received UIDresult: 1D9DF4E6 from device: 0054F0C9
+2024-06-15 00:07:22 - Successfully wrote to UIDContainer.php
+2024-06-15 00:07:22 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:07:23 - Updated existing document with tag_uid: 1D9DF4E6
+2024-06-15 00:07:26 - Received UIDresult: 1D9CF4E6 from device: 0054F0C9
+2024-06-15 00:07:26 - Successfully wrote to UIDContainer.php
+2024-06-15 00:07:26 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:07:26 - Updated existing document with tag_uid: 1D9CF4E6
+2024-06-15 00:07:29 - Received UIDresult: 1DA1F4E6 from device: 0054F0C9
+2024-06-15 00:07:29 - Successfully wrote to UIDContainer.php
+2024-06-15 00:07:29 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:07:30 - Updated existing document with tag_uid: 1DA1F4E6
+2024-06-15 00:07:32 - Received UIDresult: 1D92F4E6 from device: 0054F0C9
+2024-06-15 00:07:32 - Successfully wrote to UIDContainer.php
+2024-06-15 00:07:32 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:07:33 - Updated existing document with tag_uid: 1D92F4E6
+2024-06-15 00:08:53 - Received UIDresult: 1DA9F4E6 from device: 0054F0C9
+2024-06-15 00:08:53 - Successfully wrote to UIDContainer.php
+2024-06-15 00:08:53 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:08:54 - Updated existing document with tag_uid: 1DA9F4E6
+2024-06-15 00:08:58 - Received UIDresult: 1D94F4E6 from device: 0054F0C9
+2024-06-15 00:08:58 - Successfully wrote to UIDContainer.php
+2024-06-15 00:08:58 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:08:59 - Updated existing document with tag_uid: 1D94F4E6
+2024-06-15 00:09:00 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-15 00:09:00 - Successfully wrote to UIDContainer.php
+2024-06-15 00:09:00 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:09:01 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-15 00:09:05 - Received UIDresult: 1D95F4E6 from device: 0054F0C9
+2024-06-15 00:09:05 - Successfully wrote to UIDContainer.php
+2024-06-15 00:09:05 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:09:07 - Received UIDresult: 1DA0F4E6 from device: 0054F0C9
+2024-06-15 00:09:07 - Successfully wrote to UIDContainer.php
+2024-06-15 00:09:07 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:09:11 - Received UIDresult: 1DA4F4E6 from device: 0054F0C9
+2024-06-15 00:09:11 - Successfully wrote to UIDContainer.php
+2024-06-15 00:09:11 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:11:07 - Received UIDresult: 1D98F4E6 from device: 0054F0C9
+2024-06-15 00:11:07 - Successfully wrote to UIDContainer.php
+2024-06-15 00:11:07 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:11:09 - Received UIDresult: 1DA8F4E6 from device: 0054F0C9
+2024-06-15 00:11:09 - Successfully wrote to UIDContainer.php
+2024-06-15 00:11:09 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:11:10 - Updated existing document with tag_uid: 1DA8F4E6
+2024-06-15 00:11:12 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-15 00:11:12 - Successfully wrote to UIDContainer.php
+2024-06-15 00:11:12 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:11:12 - Updated existing document with tag_uid: 1D12F4E6
+2024-06-15 00:11:15 - Received UIDresult: 1D93F4E6 from device: 0054F0C9
+2024-06-15 00:11:15 - Successfully wrote to UIDContainer.php
+2024-06-15 00:11:15 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:11:16 - Updated existing document with tag_uid: 1D93F4E6
+2024-06-15 00:11:18 - Received UIDresult: 1DA7F4E6 from device: 0054F0C9
+2024-06-15 00:11:18 - Successfully wrote to UIDContainer.php
+2024-06-15 00:11:18 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:11:21 - Received UIDresult: 1DA9F4E6 from device: 0054F0C9
+2024-06-15 00:11:21 - Successfully wrote to UIDContainer.php
+2024-06-15 00:11:21 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:11:22 - Updated existing document with tag_uid: 1DA9F4E6
+2024-06-15 00:11:23 - Received UIDresult: 1DA1F4E6 from device: 0054F0C9
+2024-06-15 00:11:23 - Successfully wrote to UIDContainer.php
+2024-06-15 00:11:23 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:11:24 - Updated existing document with tag_uid: 1DA1F4E6
+2024-06-15 00:11:27 - Received UIDresult: 1D9CF4E6 from device: 0054F0C9
+2024-06-15 00:11:27 - Successfully wrote to UIDContainer.php
+2024-06-15 00:11:27 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:11:28 - Updated existing document with tag_uid: 1D9CF4E6
+2024-06-15 00:11:31 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-15 00:11:31 - Successfully wrote to UIDContainer.php
+2024-06-15 00:11:31 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:11:31 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-15 00:11:34 - Received UIDresult: 1D9DF4E6 from device: 0054F0C9
+2024-06-15 00:11:34 - Successfully wrote to UIDContainer.php
+2024-06-15 00:11:34 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:11:35 - Updated existing document with tag_uid: 1D9DF4E6
+2024-06-15 00:11:38 - Received UIDresult: 1DA2F4E6 from device: 0054F0C9
+2024-06-15 00:11:38 - Successfully wrote to UIDContainer.php
+2024-06-15 00:11:38 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:11:39 - Updated existing document with tag_uid: 1DA2F4E6
+2024-06-15 00:11:41 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-15 00:11:41 - Successfully wrote to UIDContainer.php
+2024-06-15 00:11:41 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:11:42 - Updated existing document with tag_uid: 1D96F4E6
+2024-06-15 00:12:46 - Received UIDresult: 1DA2F4E6 from device: 0054F0C9
+2024-06-15 00:12:46 - Successfully wrote to UIDContainer.php
+2024-06-15 00:12:46 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:12:46 - Updated existing document with tag_uid: 1DA2F4E6
+2024-06-15 00:12:53 - Received UIDresult: 1D14F4E6 from device: 0054F0C9
+2024-06-15 00:12:53 - Successfully wrote to UIDContainer.php
+2024-06-15 00:12:53 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:12:54 - Updated existing document with tag_uid: 1D14F4E6
+2024-06-15 00:13:13 - Received UIDresult: 1DA8F4E6 from device: 0054F0C9
+2024-06-15 00:13:13 - Successfully wrote to UIDContainer.php
+2024-06-15 00:13:13 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:13:14 - Updated existing document with tag_uid: 1DA8F4E6
+2024-06-15 00:13:18 - Received UIDresult: 1D93F4E6 from device: 0054F0C9
+2024-06-15 00:13:18 - Successfully wrote to UIDContainer.php
+2024-06-15 00:13:18 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:13:18 - Updated existing document with tag_uid: 1D93F4E6
+2024-06-15 00:13:22 - Received UIDresult: 1D98F4E6 from device: 0054F0C9
+2024-06-15 00:13:22 - Successfully wrote to UIDContainer.php
+2024-06-15 00:13:22 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:13:23 - Updated existing document with tag_uid: 1D98F4E6
+2024-06-15 00:13:26 - Received UIDresult: 1D9DF4E6 from device: 0054F0C9
+2024-06-15 00:13:26 - Successfully wrote to UIDContainer.php
+2024-06-15 00:13:26 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:13:27 - Updated existing document with tag_uid: 1D9DF4E6
+2024-06-15 00:13:30 - Received UIDresult: 1DA7F4E6 from device: 0054F0C9
+2024-06-15 00:13:30 - Successfully wrote to UIDContainer.php
+2024-06-15 00:13:30 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:13:30 - Updated existing document with tag_uid: 1DA7F4E6
+2024-06-15 00:13:32 - Received UIDresult: 1DA9F4E6 from device: 0054F0C9
+2024-06-15 00:13:32 - Successfully wrote to UIDContainer.php
+2024-06-15 00:13:32 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:13:33 - Updated existing document with tag_uid: 1DA9F4E6
+2024-06-15 00:13:35 - Received UIDresult: 1D9CF4E6 from device: 0054F0C9
+2024-06-15 00:13:35 - Successfully wrote to UIDContainer.php
+2024-06-15 00:13:35 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:13:36 - Updated existing document with tag_uid: 1D9CF4E6
+2024-06-15 00:13:38 - Received UIDresult: 1DA1F4E6 from device: 0054F0C9
+2024-06-15 00:13:38 - Successfully wrote to UIDContainer.php
+2024-06-15 00:13:38 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:13:39 - Updated existing document with tag_uid: 1DA1F4E6
+2024-06-15 00:13:41 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-15 00:13:41 - Successfully wrote to UIDContainer.php
+2024-06-15 00:13:41 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:13:42 - Updated existing document with tag_uid: 1D12F4E6
+2024-06-15 00:13:45 - Received UIDresult: 1D94F4E6 from device: 0054F0C9
+2024-06-15 00:13:45 - Successfully wrote to UIDContainer.php
+2024-06-15 00:13:45 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:13:45 - Updated existing document with tag_uid: 1D94F4E6
+2024-06-15 00:14:51 - Received UIDresult: 1D9EF4E6 from device: 0054F0C9
+2024-06-15 00:14:51 - Successfully wrote to UIDContainer.php
+2024-06-15 00:14:51 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:14:52 - Updated existing document with tag_uid: 1D9EF4E6
+2024-06-15 00:14:56 - Received UIDresult: 1DA3F4E6 from device: 0054F0C9
+2024-06-15 00:14:56 - Successfully wrote to UIDContainer.php
+2024-06-15 00:14:56 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:14:57 - Updated existing document with tag_uid: 1DA3F4E6
+2024-06-15 00:14:59 - Received UIDresult: 1DA0F4E6 from device: 0054F0C9
+2024-06-15 00:14:59 - Successfully wrote to UIDContainer.php
+2024-06-15 00:14:59 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:14:59 - Updated existing document with tag_uid: 1DA0F4E6
+2024-06-15 00:15:02 - Received UIDresult: 1DA4F4E6 from device: 0054F0C9
+2024-06-15 00:15:02 - Successfully wrote to UIDContainer.php
+2024-06-15 00:15:02 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:15:02 - Updated existing document with tag_uid: 1DA4F4E6
+2024-06-15 00:15:04 - Received UIDresult: 1D92F4E6 from device: 0054F0C9
+2024-06-15 00:15:04 - Successfully wrote to UIDContainer.php
+2024-06-15 00:15:04 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:15:05 - Updated existing document with tag_uid: 1D92F4E6
+2024-06-15 00:15:06 - Received UIDresult: 1D95F4E6 from device: 0054F0C9
+2024-06-15 00:15:06 - Successfully wrote to UIDContainer.php
+2024-06-15 00:15:06 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:15:07 - Updated existing document with tag_uid: 1D95F4E6
+2024-06-15 00:15:10 - Received UIDresult: 1DA1F4E6 from device: 0054F0C9
+2024-06-15 00:15:10 - Successfully wrote to UIDContainer.php
+2024-06-15 00:15:10 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:15:11 - Updated existing document with tag_uid: 1DA1F4E6
+2024-06-15 00:15:13 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-15 00:15:13 - Successfully wrote to UIDContainer.php
+2024-06-15 00:15:13 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:15:13 - Updated existing document with tag_uid: 1D12F4E6
+2024-06-15 00:15:16 - Received UIDresult: 1D9CF4E6 from device: 0054F0C9
+2024-06-15 00:15:16 - Successfully wrote to UIDContainer.php
+2024-06-15 00:15:16 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:15:16 - Updated existing document with tag_uid: 1D9CF4E6
+2024-06-15 00:15:21 - Received UIDresult: 1DA9F4E6 from device: 0054F0C9
+2024-06-15 00:15:21 - Successfully wrote to UIDContainer.php
+2024-06-15 00:15:21 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:15:22 - Updated existing document with tag_uid: 1DA9F4E6
+2024-06-15 00:15:25 - Received UIDresult: 1D9EF4E6 from device: 0054F0C9
+2024-06-15 00:15:25 - Successfully wrote to UIDContainer.php
+2024-06-15 00:15:25 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:15:25 - Updated existing document with tag_uid: 1D9EF4E6
+2024-06-15 00:15:28 - Received UIDresult: 1DA7F4E6 from device: 0054F0C9
+2024-06-15 00:15:28 - Successfully wrote to UIDContainer.php
+2024-06-15 00:15:28 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:15:29 - Updated existing document with tag_uid: 1DA7F4E6
+2024-06-15 00:15:31 - Received UIDresult: 1DA8F4E6 from device: 0054F0C9
+2024-06-15 00:15:31 - Successfully wrote to UIDContainer.php
+2024-06-15 00:15:31 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:15:32 - Updated existing document with tag_uid: 1DA8F4E6
+2024-06-15 00:16:34 - Received UIDresult: 1D95F4E6 from device: 0054F0C9
+2024-06-15 00:16:34 - Successfully wrote to UIDContainer.php
+2024-06-15 00:16:34 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:16:38 - Updated existing document with tag_uid: 1D95F4E6
+2024-06-15 00:16:43 - Received UIDresult: 1D94F4E6 from device: 0054F0C9
+2024-06-15 00:16:43 - Successfully wrote to UIDContainer.php
+2024-06-15 00:16:43 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:16:45 - Updated existing document with tag_uid: 1D94F4E6
+2024-06-15 00:16:47 - Received UIDresult: 1D98F4E6 from device: 0054F0C9
+2024-06-15 00:16:47 - Successfully wrote to UIDContainer.php
+2024-06-15 00:16:47 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:16:49 - Updated existing document with tag_uid: 1D98F4E6
+2024-06-15 00:16:52 - Received UIDresult: 1DA2F4E6 from device: 0054F0C9
+2024-06-15 00:16:52 - Successfully wrote to UIDContainer.php
+2024-06-15 00:16:52 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:16:53 - Updated existing document with tag_uid: 1DA2F4E6
+2024-06-15 00:16:56 - Received UIDresult: 1DA0F4E6 from device: 0054F0C9
+2024-06-15 00:16:56 - Successfully wrote to UIDContainer.php
+2024-06-15 00:16:56 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:16:57 - Updated existing document with tag_uid: 1DA0F4E6
+2024-06-15 00:17:01 - Received UIDresult: 1D9DF4E6 from device: 0054F0C9
+2024-06-15 00:17:01 - Successfully wrote to UIDContainer.php
+2024-06-15 00:17:01 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:17:02 - Updated existing document with tag_uid: 1D9DF4E6
+2024-06-15 00:17:03 - Received UIDresult: 1D92F4E6 from device: 0054F0C9
+2024-06-15 00:17:03 - Successfully wrote to UIDContainer.php
+2024-06-15 00:17:03 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:17:05 - Updated existing document with tag_uid: 1D92F4E6
+2024-06-15 00:17:07 - Received UIDresult: 1DA3F4E6 from device: 0054F0C9
+2024-06-15 00:17:07 - Successfully wrote to UIDContainer.php
+2024-06-15 00:17:07 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:17:09 - Updated existing document with tag_uid: 1DA3F4E6
+2024-06-15 00:17:12 - Received UIDresult: 1DA1F4E6 from device: 0054F0C9
+2024-06-15 00:17:12 - Successfully wrote to UIDContainer.php
+2024-06-15 00:17:12 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:17:14 - Updated existing document with tag_uid: 1DA1F4E6
+2024-06-15 00:17:16 - Received UIDresult: 1DA7F4E6 from device: 0054F0C9
+2024-06-15 00:17:16 - Successfully wrote to UIDContainer.php
+2024-06-15 00:17:16 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:17:17 - Updated existing document with tag_uid: 1DA7F4E6
+2024-06-15 00:17:18 - Received UIDresult: 1D9EF4E6 from device: 0054F0C9
+2024-06-15 00:17:18 - Successfully wrote to UIDContainer.php
+2024-06-15 00:17:18 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:17:20 - Updated existing document with tag_uid: 1D9EF4E6
+2024-06-15 00:17:22 - Received UIDresult: 1DA8F4E6 from device: 0054F0C9
+2024-06-15 00:17:22 - Successfully wrote to UIDContainer.php
+2024-06-15 00:17:22 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:17:23 - Updated existing document with tag_uid: 1DA8F4E6
+2024-06-15 00:17:34 - Received UIDresult: 1DA4F4E6 from device: 0054F0C9
+2024-06-15 00:17:34 - Successfully wrote to UIDContainer.php
+2024-06-15 00:17:34 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:17:36 - Updated existing document with tag_uid: 1DA4F4E6
+2024-06-15 00:18:27 - Received UIDresult: 1DA4F4E6 from device: 0054F0C9
+2024-06-15 00:18:27 - Successfully wrote to UIDContainer.php
+2024-06-15 00:18:27 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:18:28 - Updated existing document with tag_uid: 1DA4F4E6
+2024-06-15 00:18:30 - Received UIDresult: 1D93F4E6 from device: 0054F0C9
+2024-06-15 00:18:30 - Successfully wrote to UIDContainer.php
+2024-06-15 00:18:30 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:18:32 - Updated existing document with tag_uid: 1D93F4E6
+2024-06-15 00:18:33 - Received UIDresult: 1D95F4E6 from device: 0054F0C9
+2024-06-15 00:18:33 - Successfully wrote to UIDContainer.php
+2024-06-15 00:18:33 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:18:35 - Updated existing document with tag_uid: 1D95F4E6
+2024-06-15 00:18:36 - Received UIDresult: 1D9DF4E6 from device: 0054F0C9
+2024-06-15 00:18:36 - Successfully wrote to UIDContainer.php
+2024-06-15 00:18:36 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:18:38 - Updated existing document with tag_uid: 1D9DF4E6
+2024-06-15 00:18:40 - Received UIDresult: 1DA7F4E6 from device: 0054F0C9
+2024-06-15 00:18:40 - Successfully wrote to UIDContainer.php
+2024-06-15 00:18:40 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:18:42 - Updated existing document with tag_uid: 1DA7F4E6
+2024-06-15 00:18:46 - Received UIDresult: 1DA8F4E6 from device: 0054F0C9
+2024-06-15 00:18:46 - Successfully wrote to UIDContainer.php
+2024-06-15 00:18:46 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:18:47 - Updated existing document with tag_uid: 1DA8F4E6
+2024-06-15 00:18:48 - Received UIDresult: 1D9EF4E6 from device: 0054F0C9
+2024-06-15 00:18:48 - Successfully wrote to UIDContainer.php
+2024-06-15 00:18:48 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:18:49 - Updated existing document with tag_uid: 1D9EF4E6
+2024-06-15 00:18:54 - Received UIDresult: 1D98F4E6 from device: 0054F0C9
+2024-06-15 00:18:54 - Successfully wrote to UIDContainer.php
+2024-06-15 00:18:54 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:18:55 - Updated existing document with tag_uid: 1D98F4E6
+2024-06-15 00:18:58 - Received UIDresult: 1DA0F4E6 from device: 0054F0C9
+2024-06-15 00:18:58 - Successfully wrote to UIDContainer.php
+2024-06-15 00:18:58 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:19:00 - Updated existing document with tag_uid: 1DA0F4E6
+2024-06-15 00:19:03 - Received UIDresult: 1DA2F4E6 from device: 0054F0C9
+2024-06-15 00:19:03 - Successfully wrote to UIDContainer.php
+2024-06-15 00:19:03 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:19:05 - Updated existing document with tag_uid: 1DA2F4E6
+2024-06-15 00:19:07 - Received UIDresult: 1D94F4E6 from device: 0054F0C9
+2024-06-15 00:19:07 - Successfully wrote to UIDContainer.php
+2024-06-15 00:19:07 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:19:09 - Updated existing document with tag_uid: 1D94F4E6
+2024-06-15 00:19:10 - Received UIDresult: 1D12F4E6 from device: 0054F0C9
+2024-06-15 00:19:10 - Successfully wrote to UIDContainer.php
+2024-06-15 00:19:10 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:19:12 - Updated existing document with tag_uid: 1D12F4E6
+2024-06-15 00:19:23 - Received UIDresult: 1DA9F4E6 from device: 0054F0C9
+2024-06-15 00:19:23 - Successfully wrote to UIDContainer.php
+2024-06-15 00:19:23 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:19:24 - Updated existing document with tag_uid: 1DA9F4E6
+2024-06-15 00:19:28 - Received UIDresult: 1DA1F4E6 from device: 0054F0C9
+2024-06-15 00:19:28 - Successfully wrote to UIDContainer.php
+2024-06-15 00:19:28 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:19:29 - Updated existing document with tag_uid: 1DA1F4E6
+2024-06-15 00:19:31 - Received UIDresult: 1D92F4E6 from device: 0054F0C9
+2024-06-15 00:19:31 - Successfully wrote to UIDContainer.php
+2024-06-15 00:19:31 - Successfully wrote to UUIDContainer.php
+2024-06-15 00:19:32 - Updated existing document with tag_uid: 1D92F4E6
+2024-06-25 09:12:24 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 09:12:24 - Successfully wrote to UIDContainer.php
+2024-06-25 09:12:24 - Successfully wrote to UUIDContainer.php
+2024-06-25 09:19:35 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 09:19:35 - Successfully wrote to UIDContainer.php
+2024-06-25 09:19:35 - Successfully wrote to UUIDContainer.php
+2024-06-25 09:42:08 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 09:42:08 - Successfully wrote to UIDContainer.php
+2024-06-25 09:42:08 - Successfully wrote to UUIDContainer.php
+2024-06-25 09:42:55 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 09:42:55 - Successfully wrote to UIDContainer.php
+2024-06-25 09:42:55 - Successfully wrote to UUIDContainer.php
+2024-06-25 09:43:00 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 09:43:00 - Successfully wrote to UIDContainer.php
+2024-06-25 09:43:00 - Successfully wrote to UUIDContainer.php
+2024-06-25 09:45:38 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 09:45:38 - Successfully wrote to UIDContainer.php
+2024-06-25 09:45:38 - Successfully wrote to UUIDContainer.php
+2024-06-25 09:48:54 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 09:48:54 - Successfully wrote to UIDContainer.php
+2024-06-25 09:48:54 - Successfully wrote to UUIDContainer.php
+2024-06-25 09:51:09 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 09:51:09 - Successfully wrote to UIDContainer.php
+2024-06-25 09:51:09 - Successfully wrote to UUIDContainer.php
+2024-06-25 09:54:45 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 09:54:45 - Successfully wrote to UIDContainer.php
+2024-06-25 09:54:45 - Successfully wrote to UUIDContainer.php
+2024-06-25 09:58:09 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 09:58:09 - Successfully wrote to UIDContainer.php
+2024-06-25 09:58:09 - Successfully wrote to UUIDContainer.php
+2024-06-25 10:00:41 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 10:00:41 - Successfully wrote to UIDContainer.php
+2024-06-25 10:00:41 - Successfully wrote to UUIDContainer.php
+2024-06-25 10:01:16 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 10:01:16 - Successfully wrote to UIDContainer.php
+2024-06-25 10:01:16 - Successfully wrote to UUIDContainer.php
+2024-06-25 12:32:13 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 12:32:13 - Successfully wrote to UIDContainer.php
+2024-06-25 12:32:13 - Successfully wrote to UUIDContainer.php
+2024-06-25 12:33:50 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 12:33:50 - Successfully wrote to UIDContainer.php
+2024-06-25 12:33:50 - Successfully wrote to UUIDContainer.php
+2024-06-25 12:34:33 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 12:34:33 - Successfully wrote to UIDContainer.php
+2024-06-25 12:34:33 - Successfully wrote to UUIDContainer.php
+2024-06-25 12:36:08 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 12:36:08 - Successfully wrote to UIDContainer.php
+2024-06-25 12:36:08 - Successfully wrote to UUIDContainer.php
+2024-06-25 12:36:24 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 12:36:24 - Successfully wrote to UIDContainer.php
+2024-06-25 12:36:24 - Successfully wrote to UUIDContainer.php
+2024-06-25 12:37:29 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 12:37:29 - Successfully wrote to UIDContainer.php
+2024-06-25 12:37:29 - Successfully wrote to UUIDContainer.php
+2024-06-25 12:37:36 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 12:37:36 - Successfully wrote to UIDContainer.php
+2024-06-25 12:37:36 - Successfully wrote to UUIDContainer.php
+2024-06-25 12:46:17 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 12:46:17 - Successfully wrote to UIDContainer.php
+2024-06-25 12:46:17 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:04:34 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:04:34 - Successfully wrote to UIDContainer.php
+2024-06-25 13:04:34 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:05:35 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:05:35 - Successfully wrote to UIDContainer.php
+2024-06-25 13:05:35 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:08:59 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:08:59 - Successfully wrote to UIDContainer.php
+2024-06-25 13:08:59 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:25:30 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:25:30 - Successfully wrote to UIDContainer.php
+2024-06-25 13:25:30 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:26:09 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:26:09 - Successfully wrote to UIDContainer.php
+2024-06-25 13:26:09 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:26:10 - Scanner ID 0054F0C9 is not active.
+2024-06-25 13:26:17 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:26:17 - Successfully wrote to UIDContainer.php
+2024-06-25 13:26:17 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:26:17 - Scanner ID 0054F0C9 is not active.
+2024-06-25 13:26:32 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:26:32 - Successfully wrote to UIDContainer.php
+2024-06-25 13:26:32 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:26:33 - Scanner ID 0054F0C9 is not active.
+2024-06-25 13:28:54 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:28:54 - Successfully wrote to UIDContainer.php
+2024-06-25 13:28:54 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:28:55 - Scanner ID 0054F0C9 is not active.
+2024-06-25 13:28:56 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:28:56 - Successfully wrote to UIDContainer.php
+2024-06-25 13:28:56 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:28:57 - Scanner ID 0054F0C9 is not active.
+2024-06-25 13:28:59 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:28:59 - Successfully wrote to UIDContainer.php
+2024-06-25 13:28:59 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:28:59 - Scanner ID 0054F0C9 is not active.
+2024-06-25 13:29:01 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:29:01 - Successfully wrote to UIDContainer.php
+2024-06-25 13:29:01 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:29:02 - Scanner ID 0054F0C9 is not active.
+2024-06-25 13:29:05 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:29:05 - Successfully wrote to UIDContainer.php
+2024-06-25 13:29:05 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:29:05 - Scanner ID 0054F0C9 is not active.
+2024-06-25 13:30:51 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:30:51 - Successfully wrote to UIDContainer.php
+2024-06-25 13:30:51 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:30:52 - Scanner ID 0054F0C9 is not active.
+2024-06-25 13:32:05 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:32:05 - Successfully wrote to UIDContainer.php
+2024-06-25 13:32:05 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:32:05 - Scanner ID 0054F0C9 is not active.
+2024-06-25 13:32:49 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:32:49 - Successfully wrote to UIDContainer.php
+2024-06-25 13:32:49 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:32:50 - Scanner ID 0054F0C9 is not active.
+2024-06-25 13:35:26 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 13:35:26 - Successfully wrote to UIDContainer.php
+2024-06-25 13:35:26 - Successfully wrote to UUIDContainer.php
+2024-06-25 13:35:26 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:34:36 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:34:36 - Successfully wrote to UIDContainer.php
+2024-06-25 15:34:36 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:34:47 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:34:47 - Successfully wrote to UIDContainer.php
+2024-06-25 15:34:47 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:34:56 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:34:56 - Successfully wrote to UIDContainer.php
+2024-06-25 15:34:56 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:41:08 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:41:08 - Successfully wrote to UIDContainer.php
+2024-06-25 15:41:08 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:41:09 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:41:16 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:41:16 - Successfully wrote to UIDContainer.php
+2024-06-25 15:41:16 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:41:17 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:41:26 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:41:26 - Successfully wrote to UIDContainer.php
+2024-06-25 15:41:26 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:41:26 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:42:05 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:42:05 - Successfully wrote to UIDContainer.php
+2024-06-25 15:42:05 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:42:06 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:42:10 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:42:10 - Successfully wrote to UIDContainer.php
+2024-06-25 15:42:10 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:42:11 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:42:14 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:42:14 - Successfully wrote to UIDContainer.php
+2024-06-25 15:42:14 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:42:15 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:47:58 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:47:58 - Successfully wrote to UIDContainer.php
+2024-06-25 15:47:58 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:48:00 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:48:04 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:48:04 - Successfully wrote to UIDContainer.php
+2024-06-25 15:48:04 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:48:04 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:48:07 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:48:07 - Successfully wrote to UIDContainer.php
+2024-06-25 15:48:07 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:48:08 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:48:09 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:48:09 - Successfully wrote to UIDContainer.php
+2024-06-25 15:48:09 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:48:09 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:48:11 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:48:11 - Successfully wrote to UIDContainer.php
+2024-06-25 15:48:11 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:48:11 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:48:12 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:48:12 - Successfully wrote to UIDContainer.php
+2024-06-25 15:48:12 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:48:13 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:49:31 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:49:31 - Successfully wrote to UIDContainer.php
+2024-06-25 15:49:31 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:49:32 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:49:41 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:49:41 - Successfully wrote to UIDContainer.php
+2024-06-25 15:49:41 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:49:42 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:49:45 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:49:45 - Successfully wrote to UIDContainer.php
+2024-06-25 15:49:45 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:49:45 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:54:06 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:54:06 - Successfully wrote to UIDContainer.php
+2024-06-25 15:54:06 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:54:07 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:54:10 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:54:10 - Successfully wrote to UIDContainer.php
+2024-06-25 15:54:10 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:54:10 - Scanner ID 0054F0C9 is not active.
+2024-06-25 15:59:01 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 15:59:01 - Successfully wrote to UIDContainer.php
+2024-06-25 15:59:01 - Successfully wrote to UUIDContainer.php
+2024-06-25 15:59:02 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:01:23 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:01:23 - Successfully wrote to UIDContainer.php
+2024-06-25 16:01:23 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:02:17 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:02:17 - Successfully wrote to UIDContainer.php
+2024-06-25 16:02:17 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:02:29 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:02:29 - Successfully wrote to UIDContainer.php
+2024-06-25 16:02:29 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:06:53 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:06:53 - Successfully wrote to UIDContainer.php
+2024-06-25 16:06:53 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:07:06 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:07:06 - Successfully wrote to UIDContainer.php
+2024-06-25 16:07:06 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:09:59 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:09:59 - Successfully wrote to UIDContainer.php
+2024-06-25 16:09:59 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:09:59 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:11:09 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:11:09 - Successfully wrote to UIDContainer.php
+2024-06-25 16:11:09 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:11:10 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:13:09 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:13:09 - Successfully wrote to UIDContainer.php
+2024-06-25 16:13:09 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:13:10 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:16:57 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:16:57 - Successfully wrote to UIDContainer.php
+2024-06-25 16:16:57 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:18:42 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:18:42 - Successfully wrote to UIDContainer.php
+2024-06-25 16:18:42 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:18:44 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:18:44 - Successfully wrote to UIDContainer.php
+2024-06-25 16:18:44 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:18:47 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:18:47 - Successfully wrote to UIDContainer.php
+2024-06-25 16:18:47 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:18:48 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:18:48 - Successfully wrote to UIDContainer.php
+2024-06-25 16:18:48 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:18:50 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:18:50 - Successfully wrote to UIDContainer.php
+2024-06-25 16:18:50 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:18:52 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:18:52 - Successfully wrote to UIDContainer.php
+2024-06-25 16:18:52 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:18:54 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:18:54 - Successfully wrote to UIDContainer.php
+2024-06-25 16:18:54 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:18:56 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:18:56 - Successfully wrote to UIDContainer.php
+2024-06-25 16:18:56 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:18:57 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:18:57 - Successfully wrote to UIDContainer.php
+2024-06-25 16:18:57 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:18:59 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:18:59 - Successfully wrote to UIDContainer.php
+2024-06-25 16:18:59 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:20:40 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:20:40 - Successfully wrote to UIDContainer.php
+2024-06-25 16:20:40 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:21:15 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:21:15 - Successfully wrote to UIDContainer.php
+2024-06-25 16:21:15 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:21:31 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:21:31 - Successfully wrote to UIDContainer.php
+2024-06-25 16:21:31 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:21:36 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:21:36 - Successfully wrote to UIDContainer.php
+2024-06-25 16:21:36 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:21:38 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:21:38 - Successfully wrote to UIDContainer.php
+2024-06-25 16:21:38 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:23:05 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:23:05 - Successfully wrote to UIDContainer.php
+2024-06-25 16:23:05 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:23:15 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:23:15 - Successfully wrote to UIDContainer.php
+2024-06-25 16:23:15 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:36:42 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:36:42 - Successfully wrote to UIDContainer.php
+2024-06-25 16:36:42 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:36:43 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:36:55 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:36:55 - Successfully wrote to UIDContainer.php
+2024-06-25 16:36:55 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:36:55 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:37:03 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:37:03 - Successfully wrote to UIDContainer.php
+2024-06-25 16:37:03 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:37:04 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:37:28 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:37:28 - Successfully wrote to UIDContainer.php
+2024-06-25 16:37:28 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:37:28 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:45:52 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:45:52 - Successfully wrote to UIDContainer.php
+2024-06-25 16:45:52 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:45:54 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:46:04 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:46:04 - Successfully wrote to UIDContainer.php
+2024-06-25 16:46:04 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:46:05 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:46:13 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:46:13 - Successfully wrote to UIDContainer.php
+2024-06-25 16:46:13 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:46:14 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:46:19 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:46:19 - Successfully wrote to UIDContainer.php
+2024-06-25 16:46:19 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:46:19 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:46:22 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:46:22 - Successfully wrote to UIDContainer.php
+2024-06-25 16:46:22 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:46:22 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:48:08 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:48:08 - Successfully wrote to UIDContainer.php
+2024-06-25 16:48:08 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:48:08 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:48:13 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:48:13 - Successfully wrote to UIDContainer.php
+2024-06-25 16:48:13 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:48:14 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:51:07 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:51:07 - Successfully wrote to UIDContainer.php
+2024-06-25 16:51:07 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:51:07 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:53:15 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:53:15 - Successfully wrote to UIDContainer.php
+2024-06-25 16:53:15 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:53:15 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:53:33 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:53:33 - Successfully wrote to UIDContainer.php
+2024-06-25 16:53:33 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:53:34 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:53:37 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:53:37 - Successfully wrote to UIDContainer.php
+2024-06-25 16:53:37 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:53:38 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:53:54 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:53:54 - Successfully wrote to UIDContainer.php
+2024-06-25 16:53:54 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:53:55 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:55:38 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:55:38 - Successfully wrote to UIDContainer.php
+2024-06-25 16:55:38 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:55:38 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:56:08 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:56:08 - Successfully wrote to UIDContainer.php
+2024-06-25 16:56:08 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:56:09 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:56:13 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:56:13 - Successfully wrote to UIDContainer.php
+2024-06-25 16:56:13 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:56:13 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:56:18 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:56:18 - Successfully wrote to UIDContainer.php
+2024-06-25 16:56:18 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:56:18 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:56:24 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:56:24 - Successfully wrote to UIDContainer.php
+2024-06-25 16:56:24 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:56:24 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:58:27 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:58:27 - Successfully wrote to UIDContainer.php
+2024-06-25 16:58:27 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:58:27 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:58:32 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:58:32 - Successfully wrote to UIDContainer.php
+2024-06-25 16:58:32 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:58:33 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:58:45 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:58:45 - Successfully wrote to UIDContainer.php
+2024-06-25 16:58:45 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:58:45 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:58:50 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 16:58:50 - Successfully wrote to UIDContainer.php
+2024-06-25 16:58:50 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:58:50 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:58:54 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:58:54 - Successfully wrote to UIDContainer.php
+2024-06-25 16:58:54 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:58:54 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:58:57 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:58:57 - Successfully wrote to UIDContainer.php
+2024-06-25 16:58:57 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:58:57 - Scanner ID 0054F0C9 is not active.
+2024-06-25 16:59:00 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 16:59:00 - Successfully wrote to UIDContainer.php
+2024-06-25 16:59:00 - Successfully wrote to UUIDContainer.php
+2024-06-25 16:59:01 - Scanner ID 0054F0C9 is not active.
+2024-06-25 17:04:09 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 17:04:09 - Successfully wrote to UIDContainer.php
+2024-06-25 17:04:09 - Successfully wrote to UUIDContainer.php
+2024-06-25 17:04:11 - Scanner ID 0054F0C9 is not active.
+2024-06-25 17:04:13 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 17:04:13 - Successfully wrote to UIDContainer.php
+2024-06-25 17:04:13 - Successfully wrote to UUIDContainer.php
+2024-06-25 17:04:13 - Scanner ID 0054F0C9 is not active.
+2024-06-25 17:04:15 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 17:04:15 - Successfully wrote to UIDContainer.php
+2024-06-25 17:04:15 - Successfully wrote to UUIDContainer.php
+2024-06-25 17:04:16 - Scanner ID 0054F0C9 is not active.
+2024-06-25 17:04:18 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 17:04:18 - Successfully wrote to UIDContainer.php
+2024-06-25 17:04:18 - Successfully wrote to UUIDContainer.php
+2024-06-25 17:04:18 - Scanner ID 0054F0C9 is not active.
+2024-06-25 17:11:57 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 17:11:57 - Successfully wrote to UIDContainer.php
+2024-06-25 17:11:57 - Successfully wrote to UUIDContainer.php
+2024-06-25 17:11:57 - Scanner ID 0054F0C9 is not active.
+2024-06-25 17:14:22 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 17:14:22 - Successfully wrote to UIDContainer.php
+2024-06-25 17:14:22 - Successfully wrote to UUIDContainer.php
+2024-06-25 17:17:01 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 17:17:01 - Successfully wrote to UIDContainer.php
+2024-06-25 17:17:01 - Successfully wrote to UUIDContainer.php
+2024-06-25 17:17:35 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 17:17:35 - Successfully wrote to UIDContainer.php
+2024-06-25 17:17:35 - Successfully wrote to UUIDContainer.php
+2024-06-25 17:21:59 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 17:21:59 - Successfully wrote to UIDContainer.php
+2024-06-25 17:21:59 - Successfully wrote to UUIDContainer.php
+2024-06-25 17:24:18 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 17:24:18 - Successfully wrote to UIDContainer.php
+2024-06-25 17:24:18 - Successfully wrote to UUIDContainer.php
+2024-06-25 17:25:06 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 17:25:06 - Successfully wrote to UIDContainer.php
+2024-06-25 17:25:06 - Successfully wrote to UUIDContainer.php
+2024-06-25 17:25:07 - Updated existing document with tag_id: 63DAE434
+2024-06-25 17:25:10 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 17:25:10 - Successfully wrote to UIDContainer.php
+2024-06-25 17:25:10 - Successfully wrote to UUIDContainer.php
+2024-06-25 17:25:11 - Updated existing document with tag_id: 63DAE434
+2024-06-25 19:30:42 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 19:30:42 - Successfully wrote to UIDContainer.php
+2024-06-25 19:30:42 - Successfully wrote to UUIDContainer.php
+2024-06-25 19:30:49 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 19:30:49 - Successfully wrote to UIDContainer.php
+2024-06-25 19:30:49 - Successfully wrote to UUIDContainer.php
+2024-06-25 19:31:03 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 19:31:03 - Successfully wrote to UIDContainer.php
+2024-06-25 19:31:03 - Successfully wrote to UUIDContainer.php
+2024-06-25 19:31:05 - Updated existing document with tag_id: 63DAE434
+2024-06-25 19:31:08 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 19:31:08 - Successfully wrote to UIDContainer.php
+2024-06-25 19:31:08 - Successfully wrote to UUIDContainer.php
+2024-06-25 19:31:09 - Updated existing document with tag_id: 63DAE434
+2024-06-25 19:31:30 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 19:31:30 - Successfully wrote to UIDContainer.php
+2024-06-25 19:31:30 - Successfully wrote to UUIDContainer.php
+2024-06-25 19:31:31 - Updated existing document with tag_id: 63DAE434
+2024-06-25 19:31:35 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 19:31:35 - Successfully wrote to UIDContainer.php
+2024-06-25 19:31:35 - Successfully wrote to UUIDContainer.php
+2024-06-25 19:31:36 - Updated existing document with tag_id: 1D96F4E6
+2024-06-25 19:31:40 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 19:31:40 - Successfully wrote to UIDContainer.php
+2024-06-25 19:31:40 - Successfully wrote to UUIDContainer.php
+2024-06-25 19:31:41 - Updated existing document with tag_id: 63DAE434
+2024-06-25 19:31:43 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 19:31:43 - Successfully wrote to UIDContainer.php
+2024-06-25 19:31:43 - Successfully wrote to UUIDContainer.php
+2024-06-25 19:31:44 - Updated existing document with tag_id: 1D96F4E6
+2024-06-25 20:09:57 - Received UIDresult: 63DAE434 from device: 0054F0C9
+2024-06-25 20:09:57 - Successfully wrote to UIDContainer.php
+2024-06-25 20:09:57 - Successfully wrote to UUIDContainer.php
+2024-06-25 20:10:04 - Updated existing document with tag_id: 63DAE434
+2024-06-25 20:10:07 - Received UIDresult: 1D96F4E6 from device: 0054F0C9
+2024-06-25 20:10:07 - Successfully wrote to UIDContainer.php
+2024-06-25 20:10:07 - Successfully wrote to UUIDContainer.php
+2024-06-25 20:10:08 - Updated existing document with tag_id: 1D96F4E6
